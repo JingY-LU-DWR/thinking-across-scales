@@ -1,0 +1,21 @@
+project:
+  type: website
+website:
+  title: "The Ecology of the Mind"
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+
+      - text: Ways of Thinking
+        href: ways-of-thinking/index.qmd
+
+      - text: Journeys
+        href: journeys/index.qmd
+
+      - text: Writing
+        href: writing/index.qmd
+
+      - text: About
+        href: about.qmd

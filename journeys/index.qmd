@@ -1,0 +1,22 @@
+---
+title: "Journeys"
+---
+
+# Journeys
+
+Between 2015 and 2018, I investigated natural resources damage cases across China.
+
+Each investigation began as a scientific assessment.
+
+Each eventually became a reflection on the relationship between ecology, institutions, and human decisions.
+
+---
+
+## Explore the Cases
+
+- [When Forests Become Mines](inner-mongolia.qmd)
+- 🟢 Beijing — *The Disappearance of a Wetland*
+- 🟢 Hainan — *Where Silence Once Belonged to Birds*
+- 🟢 Qinghai — *Scars on the Plateau*
+- 🟢 Guizhou — *The Hidden Cost of Renewable Energy*
+- 🟢 Dongguan — *The Forest at the Edge of Industry*
