@@ -11,7 +11,7 @@
     "href": "journeys/index.html",
     "title": "Journeys",
     "section": "",
-    "text": "Between 2015 and 2018, I investigated natural resources damage cases across China.\nEach investigation began as a scientific assessment.\nEach eventually became a reflection on the relationship between ecology, institutions, and human decisions.\n\n\n\n\nWhen Forests Become Mines\n🟢 Beijing — The Disappearance of a Wetland\n🟢 Hainan — Where Silence Once Belonged to Birds\n🟢 Qinghai — Scars on the Plateau\n🟢 Guizhou — The Hidden Cost of Renewable Energy\n🟢 Dongguan — The Forest at the Edge of Industry"
+    "text": "Places that reshaped how I see the world.\nSome places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales."
   },
   {
     "objectID": "journeys/index.html#explore-the-cases",
@@ -21,11 +21,25 @@
     "text": "When Forests Become Mines\n🟢 Beijing — The Disappearance of a Wetland\n🟢 Hainan — Where Silence Once Belonged to Birds\n🟢 Qinghai — Scars on the Plateau\n🟢 Guizhou — The Hidden Cost of Renewable Energy\n🟢 Dongguan — The Forest at the Edge of Industry"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "The Ecology of the Mind",
-    "section": "Welcome",
-    "text": "Welcome\nThis website is a living archive of my interdisciplinary journey across ecology, environmental science, government, design, and writing.\nRather than documenting projects, it documents the evolution of a way of thinking.\n\nEvery landscape changed the way I think."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Thinking Across Scales\nHow studying landscapes became a way of understanding the world.\n\n\n\n\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\n\n\n\n\n\n\n\n⟲\n\n\nThinking Across Scales\nIdeas about feedback, hierarchy, dynamics, and systems.\nExplore →\n\n\n\n\n\n\n📍\n\n\nJourneys\nPlaces that transformed how I think.\nExplore →\n\n\n\n\n\n\n⌘\n\n\nComputational Thinking\nModern scientific workflows and digital craftsmanship.\nExplore →\n\n\n\n\n\n\n✍️\n\n\nWriting\nEssays, notes, and ongoing reflections.\nExplore →\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeatured Essay\n\nWhy Scale Matters\nAn exploration of scale as a guiding principle for science, design, and systems thinking.\nRead More →\n\n\n\n\n\n\n\n\n\n\nLatest Journey\n\nEverglades\nA field story about water, fire, networks, and the scales where landscape processes become visible.\nView Journey →\n\n\n\n\n\n\n\n\n“I am not interested in whether two systems look alike. I am interested in whether they are organized by the same principles.”\n\n\n\n\nThinking Across Scales\nBuilt with Quarto\nHosted on GitHub"
+  },
+  {
+    "objectID": "docs/project_context/vision.html",
+    "href": "docs/project_context/vision.html",
+    "title": "Thinking Across Scales is grounded in several organizing principles:",
+    "section": "",
+    "text": "Thinking Across Scales is grounded in several organizing principles:\n• Feedback • Scale • Recursive learning • Resilience • Regenerative systems • Emergence • Modularity"
+  },
+  {
+    "objectID": "docs/design_system/prompts/01-homepage.html",
+    "href": "docs/design_system/prompts/01-homepage.html",
+    "title": "Thanking Across Scales",
+    "section": "",
+    "text": "You are an expert Quarto website developer, UX designer, and frontend engineer.\nYour task is to create a production-ready landing page (index.qmd) for my personal website.\nDo not explain your reasoning.\nGenerate clean, maintainable Quarto Markdown with Bootstrap 5.\nDo not use JavaScript.\nDo not use external frameworks.\nOnly generate code.\n\n\n\nPROJECT\n\n\n\nWebsite Title:\nThinking Across Scales\nWebsite Theme:\nA digital garden documenting how landscape ecology evolved into a broader way of understanding systems, feedback, patterns, dynamics, and scale across science, technology, organizations, and everyday life.\nThe design should feel like:\n• Apple • Notion • Linear • Stripe • Modern academic website\nKeywords:\nminimal elegant scientific storytelling lots of whitespace responsive timeless\n\n\n\nLAYOUT\n\n\n\nCreate the following sections.\n==================================================== 1. HERO ====================================================\nLarge centered title:\nThinking Across Scales\nSubtitle:\nHow studying landscapes became a way of understanding the world.\nUse a full-width hero image.\nFor now use a placeholder image.\nLater I will replace it with my own Everglades photograph.\nThe hero should occupy about 60–70% of the first screen.\nLarge typography.\nMinimal overlay.\n==================================================== 2. INTRODUCTION ====================================================\nBelow the hero.\nUse approximately 120 words.\nText:\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\nCentered with generous margins.\n==================================================== 3. FEATURE CARDS ====================================================\nCreate four equal Bootstrap cards.\nCard 1\nTitle\nThinking Across Scales\nDescription\nIdeas about feedback, hierarchy, dynamics, and systems.\n\nCard 2\nTitle\nJourneys\nDescription\nPlaces that transformed how I think.\n\nCard 3\nTitle\nComputational Thinking\nDescription\nModern scientific workflows and digital craftsmanship.\n\nCard 4\nTitle\nWriting\nDescription\nEssays, notes, and ongoing reflections.\n\nEach card should contain:\nBootstrap Icon\nTitle\nDescription\nSimple “Explore →” link\nHover effect using CSS only.\n==================================================== 4. FEATURED CONTENT ====================================================\nCreate two side-by-side highlight panels.\nLeft\nFeatured Essay\nTitle:\nWhy Scale Matters\nPlaceholder image\nShort description\nButton:\nRead More →\n\nRight\nLatest Journey\nTitle:\nEverglades\nPlaceholder image\nShort description\nButton:\nView Journey →\n==================================================== 5. QUOTE ====================================================\nCreate a full-width elegant quote section.\nQuote:\n“I am not interested in whether two systems look alike.\nI am interested in whether they are organized by the same principles.”\nLarge serif typography.\nCentered.\nSubtle background color.\n==================================================== 6. FOOTER ====================================================\nSimple footer.\nLeft\nThinking Across Scales\nCenter\nBuilt with Quarto\nRight\nHosted on GitHub\n\n\n\nSTYLE\n\n\n\nUse Bootstrap 5.\nResponsive on desktop and mobile.\nLots of whitespace.\nAvoid heavy borders.\nUse subtle shadows.\nRounded corners.\nProfessional typography.\nNo flashy animations.\nNo JavaScript.\n\n\n\nOUTPUT\n\n\n\nGenerate:\n\nindex.qmd\nassets/css/custom.css\nAny required YAML.\n\nUse relative paths.\nThe code should be ready to render immediately in Quarto.\nReturn only code."
   },
   {
     "objectID": "about.html",
@@ -33,6 +47,20 @@
     "title": "About",
     "section": "",
     "text": "I am an environmental scientist, writer, and systems thinker.\nMy work explores how ecological thinking can illuminate not only natural systems, but also organizations, cultures, and the human mind."
+  },
+  {
+    "objectID": "docs/design_system/prompts/04-maps.html",
+    "href": "docs/design_system/prompts/04-maps.html",
+    "title": "Thanking Across Scales",
+    "section": "",
+    "text": "render: false"
+  },
+  {
+    "objectID": "docs/project_context/writing_style.html",
+    "href": "docs/project_context/writing_style.html",
+    "title": "Thanking Across Scales",
+    "section": "",
+    "text": "Tone\n• thoughtful • reflective • interdisciplinary\nAvoid\n• buzzwords • clickbait • overly academic language"
   },
   {
     "objectID": "journeys/inner-mongolia.html",
@@ -75,5 +103,243 @@
     "title": "Ways of Thinking",
     "section": "",
     "text": "Ways of Thinking\nComing soon…"
+  },
+  {
+    "objectID": "test-grid.html",
+    "href": "test-grid.html",
+    "title": "Grid Test",
+    "section": "",
+    "text": "This should appear on the left.\n\n\n\nThis should appear on the right."
+  },
+  {
+    "objectID": "test-grid.html#left",
+    "href": "test-grid.html#left",
+    "title": "Grid Test",
+    "section": "",
+    "text": "This should appear on the left."
+  },
+  {
+    "objectID": "test-grid.html#right",
+    "href": "test-grid.html#right",
+    "title": "Grid Test",
+    "section": "",
+    "text": "This should appear on the right."
+  },
+  {
+    "objectID": "docs/project_context/known_issues.html",
+    "href": "docs/project_context/known_issues.html",
+    "title": "Thanking Across Scales",
+    "section": "",
+    "text": "Status: Investigating.\nSymptoms: Bootstrap columns stack vertically.\nPriority: Low\nReason: Does not block content creation."
+  },
+  {
+    "objectID": "docs/project_context/known_issues.html#bootstrap-grid",
+    "href": "docs/project_context/known_issues.html#bootstrap-grid",
+    "title": "Thanking Across Scales",
+    "section": "",
+    "text": "Status: Investigating.\nSymptoms: Bootstrap columns stack vertically.\nPriority: Low\nReason: Does not block content creation."
+  },
+  {
+    "objectID": "journeys/journey-template.html",
+    "href": "journeys/journey-template.html",
+    "title": "Journey Template",
+    "section": "",
+    "text": "Location · Years\n\n\n“A short reflection on how this place changed the way I think.”"
+  },
+  {
+    "objectID": "journeys/journey-template.html#the-story",
+    "href": "journeys/journey-template.html#the-story",
+    "title": "Journey Template",
+    "section": "The Story",
+    "text": "The Story\n\nBefore I Arrived\nUse this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.\n\n\nWhat I Observed\nDescribe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.\n\n\nWhat Changed\nExplain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.\n\n\nWhat Stayed With Me\nClose with a brief reflection on the lasting idea, question, or method that remained with you after leaving."
+  },
+  {
+    "objectID": "journeys/journey-template.html#thinking-across-scales",
+    "href": "journeys/journey-template.html#thinking-across-scales",
+    "title": "Journey Template",
+    "section": "Thinking Across Scales",
+    "text": "Thinking Across Scales\nThis is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative."
+  },
+  {
+    "objectID": "journeys/journey-template.html#related-essays",
+    "href": "journeys/journey-template.html#related-essays",
+    "title": "Journey Template",
+    "section": "Related Essays",
+    "text": "Related Essays\n\n\n\nEssay One\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Two\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Three\nA short note on how this idea connects to another piece of writing.\nRead more →"
+  },
+  {
+    "objectID": "journeys/template.html",
+    "href": "journeys/template.html",
+    "title": "Journey Template",
+    "section": "",
+    "text": "Location · Years\n\n\n“A short reflection on how this place changed the way I think.”"
+  },
+  {
+    "objectID": "journeys/template.html#the-story",
+    "href": "journeys/template.html#the-story",
+    "title": "Journey Template",
+    "section": "The Story",
+    "text": "The Story\n\nBefore I Arrived\nUse this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.\n\n\nWhat I Observed\nDescribe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.\n\n\nWhat Changed\nExplain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.\n\n\nWhat Stayed With Me\nClose with a brief reflection on the lasting idea, question, or method that remained with you after leaving."
+  },
+  {
+    "objectID": "journeys/template.html#thinking-across-scales",
+    "href": "journeys/template.html#thinking-across-scales",
+    "title": "Journey Template",
+    "section": "Thinking Across Scales",
+    "text": "Thinking Across Scales\nThis is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative."
+  },
+  {
+    "objectID": "journeys/template.html#related-essays",
+    "href": "journeys/template.html#related-essays",
+    "title": "Journey Template",
+    "section": "Related Essays",
+    "text": "Related Essays\n\n\n\nEssay One\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Two\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Three\nA short note on how this idea connects to another piece of writing.\nRead more →"
+  },
+  {
+    "objectID": "journeys/everglades.html",
+    "href": "journeys/everglades.html",
+    "title": "Journey Template",
+    "section": "",
+    "text": "Location · Years\n\n\n“A short reflection on how this place changed the way I think.”"
+  },
+  {
+    "objectID": "journeys/everglades.html#the-story",
+    "href": "journeys/everglades.html#the-story",
+    "title": "Journey Template",
+    "section": "The Story",
+    "text": "The Story\n\nBefore I Arrived\nUse this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.\n\n\nWhat I Observed\nDescribe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.\n\n\nWhat Changed\nExplain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.\n\n\nWhat Stayed With Me\nClose with a brief reflection on the lasting idea, question, or method that remained with you after leaving."
+  },
+  {
+    "objectID": "journeys/everglades.html#thinking-across-scales",
+    "href": "journeys/everglades.html#thinking-across-scales",
+    "title": "Journey Template",
+    "section": "Thinking Across Scales",
+    "text": "Thinking Across Scales\nThis is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative."
+  },
+  {
+    "objectID": "journeys/everglades.html#related-essays",
+    "href": "journeys/everglades.html#related-essays",
+    "title": "Journey Template",
+    "section": "Related Essays",
+    "text": "Related Essays\n\n\n\nEssay One\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Two\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Three\nA short note on how this idea connects to another piece of writing.\nRead more →"
+  },
+  {
+    "objectID": "docs/design_system/prompts/05-journey-template.html",
+    "href": "docs/design_system/prompts/05-journey-template.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Create a reusable Quarto page template for a Journey.\nThis is NOT a travel blog.\nIt is a story about how a place transformed the way I think.\nThe design should feel calm, spacious, reflective, and editorial.\nUse the same visual language as the Landing Page.\n\nPage Structure\n\nHero Section\n\nLarge immersive landscape image\nJourney title\nLocation\nYears\nOne-sentence reflection\nExample:\nEverglades\nFlorida, USA\n2008–2012\n“The landscape where I first learned to think across scales.”\n\n\nAt a Glance\n\nDisplay as four elegant cards\nLocation\nYears\nThemes\nRelated Research\n\n\nThe Story\n\nLong-form narrative.\nUse large readable typography.\nBreak into sections.\nSuggested headings:\nBefore I Arrived\nWhat I Observed\nWhat Changed\nWhat Stayed With Me\n\n\nGallery\n\nResponsive image gallery.\nLarge images with short captions.\n\n\nThinking Across Scales\n\nThis is the signature section.\nSummarize how this place changed my understanding of systems, scale, feedback, or complexity.\nThis section should be visually distinguished from the main story.\n\n\nRelated Essays\n\nDisplay 3 linked essays as cards.\n\nDesign Principles\nMinimal\nEditorial\nElegant\nLots of whitespace\nNo unnecessary decorations\nResponsive\nUse Bootstrap Grid\nDo not invent placeholder content beyond demonstrating layout.\nFocus on creating a reusable template rather than a finished article."
+  },
+  {
+    "objectID": "journeys/index.html#journeys",
+    "href": "journeys/index.html#journeys",
+    "title": "Journeys",
+    "section": "",
+    "text": "Places that reshaped how I see the world.\nSome places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/journey-index.html",
+    "href": "docs/design_system/prompts_library/pages/journey-index.html",
+    "title": "Journey Index Page Specification",
+    "section": "",
+    "text": "Design the index page for the Journeys section of my Quarto website.\nThis is NOT a travel blog.\nIt is an atlas of places that fundamentally transformed how I think.\nThe page should communicate curiosity, reflection, exploration, and intellectual growth.\nThis page serves as the primary navigation page for all Journey articles."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/journey-index.html#purpose",
+    "href": "docs/design_system/prompts_library/pages/journey-index.html#purpose",
+    "title": "Journey Index Page Specification",
+    "section": "",
+    "text": "Design the index page for the Journeys section of my Quarto website.\nThis is NOT a travel blog.\nIt is an atlas of places that fundamentally transformed how I think.\nThe page should communicate curiosity, reflection, exploration, and intellectual growth.\nThis page serves as the primary navigation page for all Journey articles."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/components/maps.html",
+    "href": "docs/design_system/prompts_library/components/maps.html",
+    "title": "World Map Component",
+    "section": "",
+    "text": "Create a reusable SVG world map component for a Quarto website.\nThe map should become the primary navigation interface for the Journeys section.\nIt should be lightweight.\nNo JavaScript.\nUse inline SVG.\nDesign Style\nMinimal\nEditorial\nMuted earth tones\nThin coastlines\nLots of whitespace\nDo not use Google Maps.\nDo not use Leaflet.\nDo not use Mapbox.\nLocations\nEverglades\nYellowstone\nYunnan\nTibet\nMaine\nSacramento\nEach location should appear as a circular marker.\nEach marker should link to its corresponding Journey page.\nThe SVG should scale responsively."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/homepage.html",
+    "href": "docs/design_system/prompts_library/pages/homepage.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "You are an expert Quarto website developer, UX designer, and frontend engineer.\nYour task is to create a production-ready landing page (index.qmd) for my personal website.\nDo not explain your reasoning.\nGenerate clean, maintainable Quarto Markdown with Bootstrap 5.\nDo not use JavaScript.\nDo not use external frameworks.\nOnly generate code.\n\n\n\nPROJECT\n\n\n\nWebsite Title:\nThinking Across Scales\nWebsite Theme:\nA digital garden documenting how landscape ecology evolved into a broader way of understanding systems, feedback, patterns, dynamics, and scale across science, technology, organizations, and everyday life.\nThe design should feel like:\n• Apple • Notion • Linear • Stripe • Modern academic website\nKeywords:\nminimal elegant scientific storytelling lots of whitespace responsive timeless\n\n\n\nLAYOUT\n\n\n\nCreate the following sections.\n==================================================== 1. HERO ====================================================\nLarge centered title:\nThinking Across Scales\nSubtitle:\nHow studying landscapes became a way of understanding the world.\nUse a full-width hero image.\nFor now use a placeholder image.\nLater I will replace it with my own Everglades photograph.\nThe hero should occupy about 60–70% of the first screen.\nLarge typography.\nMinimal overlay.\n==================================================== 2. INTRODUCTION ====================================================\nBelow the hero.\nUse approximately 120 words.\nText:\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\nCentered with generous margins.\n==================================================== 3. FEATURE CARDS ====================================================\nCreate four equal Bootstrap cards.\nCard 1\nTitle\nThinking Across Scales\nDescription\nIdeas about feedback, hierarchy, dynamics, and systems.\n\nCard 2\nTitle\nJourneys\nDescription\nPlaces that transformed how I think.\n\nCard 3\nTitle\nComputational Thinking\nDescription\nModern scientific workflows and digital craftsmanship.\n\nCard 4\nTitle\nWriting\nDescription\nEssays, notes, and ongoing reflections.\n\nEach card should contain:\nBootstrap Icon\nTitle\nDescription\nSimple “Explore →” link\nHover effect using CSS only.\n==================================================== 4. FEATURED CONTENT ====================================================\nCreate two side-by-side highlight panels.\nLeft\nFeatured Essay\nTitle:\nWhy Scale Matters\nPlaceholder image\nShort description\nButton:\nRead More →\n\nRight\nLatest Journey\nTitle:\nEverglades\nPlaceholder image\nShort description\nButton:\nView Journey →\n==================================================== 5. QUOTE ====================================================\nCreate a full-width elegant quote section.\nQuote:\n“I am not interested in whether two systems look alike.\nI am interested in whether they are organized by the same principles.”\nLarge serif typography.\nCentered.\nSubtle background color.\n==================================================== 6. FOOTER ====================================================\nSimple footer.\nLeft\nThinking Across Scales\nCenter\nBuilt with Quarto\nRight\nHosted on GitHub\n\n\n\nSTYLE\n\n\n\nUse Bootstrap 5.\nResponsive on desktop and mobile.\nLots of whitespace.\nAvoid heavy borders.\nUse subtle shadows.\nRounded corners.\nProfessional typography.\nNo flashy animations.\nNo JavaScript.\n\n\n\nOUTPUT\n\n\n\nGenerate:\n\nindex.qmd\nassets/css/custom.css\nAny required YAML.\n\nUse relative paths.\nThe code should be ready to render immediately in Quarto.\nReturn only code."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/journey-template.html",
+    "href": "docs/design_system/prompts_library/pages/journey-template.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Create a reusable Quarto page template for a Journey.\nThis is NOT a travel blog.\nIt is a story about how a place transformed the way I think.\nThe design should feel calm, spacious, reflective, and editorial.\nUse the same visual language as the Landing Page.\n\nPage Structure\n\nHero Section\n\nLarge immersive landscape image\nJourney title\nLocation\nYears\nOne-sentence reflection\nExample:\nEverglades\nFlorida, USA\n2008–2012\n“The landscape where I first learned to think across scales.”\n\n\nAt a Glance\n\nDisplay as four elegant cards\nLocation\nYears\nThemes\nRelated Research\n\n\nThe Story\n\nLong-form narrative.\nUse large readable typography.\nBreak into sections.\nSuggested headings:\nBefore I Arrived\nWhat I Observed\nWhat Changed\nWhat Stayed With Me\n\n\nGallery\n\nResponsive image gallery.\nLarge images with short captions.\n\n\nThinking Across Scales\n\nThis is the signature section.\nSummarize how this place changed my understanding of systems, scale, feedback, or complexity.\nThis section should be visually distinguished from the main story.\n\n\nRelated Essays\n\nDisplay 3 linked essays as cards.\n\nDesign Principles\nMinimal\nEditorial\nElegant\nLots of whitespace\nNo unnecessary decorations\nResponsive\nUse Bootstrap Grid\nDo not invent placeholder content beyond demonstrating layout.\nFocus on creating a reusable template rather than a finished article."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/components/maps.html#purpose",
+    "href": "docs/design_system/prompts_library/components/maps.html#purpose",
+    "title": "World Map Component",
+    "section": "",
+    "text": "Create a reusable SVG world map component for a Quarto website.\nThe map should become the primary navigation interface for the Journeys section.\nIt should be lightweight.\nNo JavaScript.\nUse inline SVG.\nDesign Style\nMinimal\nEditorial\nMuted earth tones\nThin coastlines\nLots of whitespace\nDo not use Google Maps.\nDo not use Leaflet.\nDo not use Mapbox.\nLocations\nEverglades\nYellowstone\nYunnan\nTibet\nMaine\nSacramento\nEach location should appear as a circular marker.\nEach marker should link to its corresponding Journey page.\nThe SVG should scale responsively."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "The Mapbox map is working correctly.\nPlease improve the implementation without changing the overall architecture.\nCurrent implementation\nHowever, several improvements are needed."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#automatically-fit-the-map-to-all-locations",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#automatically-fit-the-map-to-all-locations",
+    "title": "Thinking Across Scales",
+    "section": "1. Automatically fit the map to all locations",
+    "text": "1. Automatically fit the map to all locations\nRemove the fixed\ncenter: [...]\nzoom: ...\nInstead, after all markers are created:\n\nCreate a mapboxgl.LngLatBounds object.\nExtend the bounds with every location.\nCall map.fitBounds(bounds).\n\nUse approximately\npadding: 80\nmaxZoom: 2.8\nThis ensures the map automatically adjusts whenever new places are added.\nDo not hard-code the map center."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-the-default-world-view",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-the-default-world-view",
+    "title": "Thinking Across Scales",
+    "section": "2. Improve the default world view",
+    "text": "2. Improve the default world view\nThe initial map should display North America and East Asia together.\nThe current view is centered too far over the Indian Ocean.\nThe map should feel like a global atlas."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-marker-styling",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-marker-styling",
+    "title": "Thinking Across Scales",
+    "section": "3. Improve marker styling",
+    "text": "3. Improve marker styling\nReplace the default black markers with a cleaner editorial style.\nUse small circular markers.\nWhite fill.\nDark border.\nSubtle hover animation.\nMarkers should feel elegant rather than like Google Maps."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-popups",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-popups",
+    "title": "Thinking Across Scales",
+    "section": "4. Improve popups",
+    "text": "4. Improve popups\nCurrent popup only displays title and summary.\nInstead display\nJourney title\nRegion\nSummary\nA small “Read Journey →” link\nUse clean typography.\nRounded popup.\nMaximum width around 260px."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#better-map-interaction",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#better-map-interaction",
+    "title": "Thinking Across Scales",
+    "section": "5. Better map interaction",
+    "text": "5. Better map interaction\nDisable\nrotation\npitch\ndouble-click zoom\nEnable\nmouse wheel zoom\ndrag\ntouch navigation\nThe interaction should feel calm."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#remove-unnecessary-ui",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#remove-unnecessary-ui",
+    "title": "Thinking Across Scales",
+    "section": "6. Remove unnecessary UI",
+    "text": "6. Remove unnecessary UI\nHide\nMapbox attribution (if legally permitted)\nCompass\nRotation controls\nKeep the interface minimal."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-code-organization",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#improve-code-organization",
+    "title": "Thinking Across Scales",
+    "section": "7. Improve code organization",
+    "text": "7. Improve code organization\nSplit the implementation into reusable functions.\nExample\ninitializeMap()\nloadPlaces()\ncreateMarkers()\nfitMapToPlaces()\nThe code should become modular and easier to maintain."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html#future-compatibility",
+    "href": "docs/design_system/prompts_library/refinements/world-map-v1.html#future-compatibility",
+    "title": "Thinking Across Scales",
+    "section": "8. Future compatibility",
+    "text": "8. Future compatibility\nKeep the implementation compatible with future additions such as\nTimeline\nJourney filtering\nMarker categories\nAnimated routes\nDo not implement these features now.\nSimply organize the code so future expansion is straightforward.\n\nDo not redesign the page.\nOnly improve the Mapbox component.\nThe goal is to create a reusable World Map component for the entire website."
   }
 ]

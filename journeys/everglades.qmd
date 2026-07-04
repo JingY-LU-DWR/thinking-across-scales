@@ -1,0 +1,140 @@
+---
+title: "Journey Template"
+format:
+  html:
+    css: ../assets/css/custom.css
+    page-layout: full
+    toc: false
+    title-block-banner: false
+---
+
+::: {.journey-hero .hero-shell}
+::: {.journey-hero-image .hero-image role="img" aria-label="Placeholder landscape image"}
+:::
+
+::: {.hero-copy .container}
+# Journey Title
+
+<p class="journey-meta">Location · Years</p>
+
+<p class="journey-reflection">“A short reflection on how this place changed the way I think.”</p>
+:::
+:::
+
+::: {.section .container-fluid .journey-glance}
+::: {.row .gx-4 .gy-4}
+::: {.col-12 .col-md-6 .col-xl-3}
+::: {.feature-card .journey-card}
+### Location
+
+Everglades, Florida, USA
+:::
+:::
+
+::: {.col-12 .col-md-6 .col-xl-3}
+::: {.feature-card .journey-card}
+### Years
+
+2009–2015
+:::
+:::
+
+::: {.col-12 .col-md-6 .col-xl-3}
+::: {.feature-card .journey-card}
+### Themes
+
+Scale · Feedback · Complexity
+:::
+:::
+
+::: {.col-12 .col-md-6 .col-xl-3}
+::: {.feature-card .journey-card}
+### Related Research
+
+A brief note or citation
+:::
+:::
+:::
+:::
+
+::: {.section .container .journey-story}
+## The Story
+
+### Before I Arrived
+
+Use this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.
+
+### What I Observed
+
+Describe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.
+
+### What Changed
+
+Explain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.
+
+### What Stayed With Me
+
+Close with a brief reflection on the lasting idea, question, or method that remained with you after leaving.
+:::
+
+::: {.section .container-fluid .journey-gallery}
+::: {.row .gx-4 .gy-4}
+::: {.col-12 .col-lg-6}
+::: {.gallery-card}
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'%3E%3Crect width='1200' height='800' fill='%23ece7de'/%3E%3Ctext x='50%25' y='50%25' fill='%23111111' font-family='Inter, Arial, sans-serif' font-size='42' text-anchor='middle' dominant-baseline='middle'%3EImage 1%3C/text%3E%3C/svg%3E" alt="Placeholder landscape image" />
+<p class="gallery-caption">A short caption that explains the image without overexplaining it.</p>
+:::
+:::
+
+::: {.col-12 .col-lg-6}
+::: {.gallery-card}
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'%3E%3Crect width='1200' height='800' fill='%23f1ebe4'/%3E%3Ctext x='50%25' y='50%25' fill='%23111111' font-family='Inter, Arial, sans-serif' font-size='42' text-anchor='middle' dominant-baseline='middle'%3EImage 2%3C/text%3E%3C/svg%3E" alt="Placeholder landscape image" />
+<p class="gallery-caption">A second caption that can be replaced with a more specific observation.</p>
+:::
+:::
+:::
+:::
+
+::: {.section .journey-thinking}
+::: {.container}
+## Thinking Across Scales
+
+This is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative.
+:::
+:::
+
+::: {.section .container .journey-essays}
+## Related Essays
+
+::: {.row .gx-4 .gy-4}
+::: {.col-12 .col-md-4}
+::: {.feature-card .essay-card}
+### Essay One
+
+A short note on how this idea connects to another piece of writing.
+
+[Read more →](#)
+:::
+:::
+
+::: {.col-12 .col-md-4}
+::: {.feature-card .essay-card}
+### Essay Two
+
+A short note on how this idea connects to another piece of writing.
+
+[Read more →](#)
+:::
+:::
+
+::: {.col-12 .col-md-4}
+::: {.feature-card .essay-card}
+### Essay Three
+
+A short note on how this idea connects to another piece of writing.
+
+[Read more →](#)
+:::
+:::
+:::
+:::

@@ -1,7 +1,10 @@
 project:
   type: website
+resources:
+  - data/
+
 website:
-  title: "The Ecology of the Mind"
+  title: "Thinking Across Scales"
 
   navbar:
     left:

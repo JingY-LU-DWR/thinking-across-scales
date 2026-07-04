@@ -1,22 +1,50 @@
 ---
 title: "Journeys"
+format:
+  html:
+    css:
+      - ../assets/css/custom.css
+      - ../assets/css/map.css
+    page-layout: full
+    toc: false
+    title-block-banner: false
+    include-after-body:
+      - text: <script src="https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js"></script>
+      - text: <script src="../assets/js/map.js"></script>
 ---
 
-# Journeys
+::: {.journeys-hero .container}
+## Journeys
 
-Between 2015 and 2018, I investigated natural resources damage cases across China.
+**Places that reshaped how I see the world.**
 
-Each investigation began as a scientific assessment.
+Some places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales.
+:::
 
-Each eventually became a reflection on the relationship between ecology, institutions, and human decisions.
+::: {.section .container .journeys-map-shell}
+::: {.row .gx-4 .gy-4 .align-items-start}
+::: {.col-12 .col-lg-7}
+::: {.map-card}
+<div id="journey-map" aria-label="Interactive map of journey locations"></div>
+<p id="map-status" class="map-status">Loading locations…</p>
+:::
+:::
 
----
+::: {.col-12 .col-lg-5}
+::: {.preview-card}
+<div class="preview-image" role="img" aria-label="Everglades landscape placeholder"></div>
+<div class="preview-copy">
+<h3>Everglades</h3>
+<p class="preview-meta">Florida, USA · 2008–2012</p>
+<p>The landscape where I first learned to think across scales, reading water, fire, and time as one system.</p>
+<a class="panel-button" href="everglades.qmd">Read Journey →</a>
+</div>
+:::
+:::
+:::
+:::
 
-## Explore the Cases
-
-- [When Forests Become Mines](inner-mongolia.qmd)
-- 🟢 Beijing — *The Disappearance of a Wetland*
-- 🟢 Hainan — *Where Silence Once Belonged to Birds*
-- 🟢 Qinghai — *Scars on the Plateau*
-- 🟢 Guizhou — *The Hidden Cost of Renewable Energy*
-- 🟢 Dongguan — *The Forest at the Edge of Industry*
+::: {.section .container .journeys-future}
+<h2>Future Directions</h2>
+<p>This section is intentionally left open for future additions such as timelines, categories, search, filters, and connections between places.</p>
+:::
