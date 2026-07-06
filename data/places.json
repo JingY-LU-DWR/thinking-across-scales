@@ -1,0 +1,62 @@
+[
+  {
+    "id": "everglades",
+    "title": "Everglades",
+    "country": "United States",
+    "region": "Florida",
+    "latitude": 25.2866,
+    "longitude": -80.8987,
+    "summary": "The landscape where I first learned to think across scales.",
+    "page": "journeys/everglades.qmd"
+  },
+  {
+    "id": "guizhou",
+    "title": "Guizhou",
+    "country": "China",
+    "region": "Guizhou Province",
+    "latitude": 26.8420,
+    "longitude": 106.7135,
+    "summary": "Karst landscapes that first sparked my curiosity about nature.",
+    "page": "journeys/guizhou.qmd"
+  },
+  {
+    "id": "hainan",
+    "title": "Hainan",
+    "country": "China",
+    "region": "Hainan Province",
+    "latitude": 20.0440,
+    "longitude": 110.1983,
+    "summary": "An island where tropical landscapes revealed another face of ecology.",
+    "page": "journeys/hainan.qmd"
+  },
+  {
+    "id": "inner-mongolia",
+    "title": "Inner Mongolia",
+    "country": "China",
+    "region": "Inner Mongolia Autonomous Region",
+    "latitude": 40.8175,
+    "longitude": 111.7652,
+    "summary": "Grasslands that expanded my understanding of scale and landscape patterns.",
+    "page": "journeys/inner-mongolia.qmd"
+  },
+  {
+    "id": "beijing",
+    "title": "Beijing",
+    "country": "China",
+    "region": "Beijing Municipality",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "summary": "Where academic training and scientific thinking began to take shape.",
+    "page": "journeys/beijing.qmd"
+  },
+  {
+    "id": "california",
+    "title": "California",
+    "country": "United States",
+    "region": "California",
+    "latitude": 38.5816,
+    "longitude": -121.4944,
+    "summary": "Where ecology, computation, and public service came together.",
+    "page": "journeys/california.qmd"
+  }
+]

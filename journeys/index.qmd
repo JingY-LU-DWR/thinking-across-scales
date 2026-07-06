@@ -1,0 +1,50 @@
+---
+title: "Journeys"
+format:
+  html:
+    css:
+      - ../assets/css/custom.css
+      - ../assets/css/map.css
+    page-layout: full
+    toc: false
+    title-block-banner: false
+    include-after-body:
+      - text: <script src="https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js"></script>
+      - text: <script src="../assets/js/map.js"></script>
+---
+
+::: {.journeys-hero .container}
+## Journeys
+
+**Places that reshaped how I see the world.**
+
+Some places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales.
+:::
+
+::: {.section .container .journeys-map-shell}
+::: {.row .gx-4 .gy-4 .align-items-start}
+::: {.col-12 .col-lg-7}
+::: {.map-card}
+<div id="journey-map" aria-label="Interactive map of journey locations"></div>
+<p id="map-status" class="map-status">Loading locations…</p>
+:::
+:::
+
+::: {.col-12 .col-lg-5}
+::: {.preview-card}
+<div class="preview-image" role="img" aria-label="Everglades landscape placeholder"></div>
+<div class="preview-copy">
+<h3>Everglades</h3>
+<p class="preview-meta">Florida, USA · 2008–2012</p>
+<p>The landscape where I first learned to think across scales, reading water, fire, and time as one system.</p>
+<a class="panel-button" href="everglades.qmd">Read Journey →</a>
+</div>
+:::
+:::
+:::
+:::
+
+::: {.section .container .journeys-future}
+<h2>Future Directions</h2>
+<p>This section is intentionally left open for future additions such as timelines, categories, search, filters, and connections between places.</p>
+:::

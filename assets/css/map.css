@@ -1,0 +1,98 @@
+.journeys-map-shell {
+  padding: 1rem 0 2rem;
+}
+
+.map-card {
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid rgba(31, 38, 45, 0.06);
+  border-radius: 28px;
+  box-shadow: 0 20px 60px rgba(24, 30, 36, 0.06);
+  overflow: hidden;
+}
+
+#journey-map {
+  width: 100%;
+  min-height: 520px;
+  background: #ece7de;
+}
+
+.map-status {
+  padding: 0.75rem 1rem 1rem;
+  color: #4b5262;
+  font-size: 0.95rem;
+}
+
+.map-marker-pin {
+  width: 12px;
+  height: 12px;
+  padding: 0;
+  border: 2px solid #111111;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px rgba(17, 17, 17, 0.08);
+  cursor: pointer;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.map-marker-pin:hover,
+.map-marker-pin.is-hovered {
+  transform: scale(1.12);
+  box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.12);
+}
+
+.map-marker-pin:focus-visible {
+  outline: 2px solid #111111;
+  outline-offset: 2px;
+}
+
+.mapboxgl-popup-content {
+  border-radius: 16px;
+  box-shadow: 0 18px 44px rgba(17, 17, 17, 0.12);
+  font-family: inherit;
+  color: #111111;
+  padding: 1rem 1rem 0.95rem;
+  max-width: 260px;
+}
+
+.mapboxgl-popup-tip {
+  border-top-color: #ffffff;
+}
+
+.map-popup h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.map-popup-region {
+  margin: 0 0 0.45rem;
+  font-size: 0.9rem;
+  color: #64748b;
+}
+
+.map-popup-summary {
+  margin: 0 0 0.65rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: #2f3542;
+}
+
+.map-popup-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #111111;
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.map-popup-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  #journey-map {
+    min-height: 420px;
+  }
+}
