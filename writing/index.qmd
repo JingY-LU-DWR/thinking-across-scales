@@ -1,7 +1,0 @@
----
-title: "Writing"
----
-
-# Writing
-
-Coming soon...
