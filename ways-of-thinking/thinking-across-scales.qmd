@@ -1,0 +1,42 @@
+---
+title: "Thinking Across Scales"
+subtitle: "An unfinished manifesto"
+date: 2026-07-07
+
+format:
+  html:
+    toc: false
+    page-layout: article
+
+categories:
+  - Philosophy
+  - Ecology
+  - Systems Thinking
+---
+# Thinking Across Scales
+
+> Every landscape is also a way of thinking.
+
+We often explain problems at the scale of individuals, when their roots lie in larger systems. We debate policies at the national level, yet rarely ask how they are lived by a single person. Thinking Across Scales is the practice of moving continuously between these perspectives—between individuals and institutions, places and planets, moments and millennia. Ecological problems are fundamentally problems of scale. I have come to believe that life is, too.
+
+I did not arrive at this idea through philosophy.
+
+I arrived through fieldwork.
+
+Years of ecological investigations across China's forests, wetlands, grasslands, and mountains slowly revealed a recurring pattern.
+
+The questions I carried into the field were rarely the questions I brought home.
+
+A fallen tulip tree became a story about institutions.
+A cigarette butt became a story about policy.
+A wetland became a story about time.
+
+The Ecology of the Mind is my attempt to continue these conversations.
+
+It is not a travel blog.
+
+It is not an academic website.
+
+It is a living collection of journeys, essays, conversations, and ideas exploring how landscapes shape the ways we think—and how our ways of thinking, in turn, reshape the landscapes we inhabit.
+
+This is where the journey begins.

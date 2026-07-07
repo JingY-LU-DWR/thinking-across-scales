@@ -2,6 +2,16 @@
 title: "Ways of Thinking"
 ---
 
+
 # Ways of Thinking
 
-Coming soon...
+An evolving collection of ideas behind **The Ecology of the Mind**.
+
+## Essays
+
+- [Thinking Across Scales](thinking-across-scales.qmd)
+- [Seeing Across Scales](seeing-across-scales.qmd)
+- [Spinning Across Scales](spinning-across-scales.qmd)
+- Ecological Accounting *(coming soon)*
+- Political Ecology *(coming soon)*
+- The Ecology of Ideas *(coming soon)*
