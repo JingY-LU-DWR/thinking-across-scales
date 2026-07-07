@@ -28,25 +28,137 @@
     "text": "This should appear on the right."
   },
   {
-    "objectID": "journeys/index.html",
-    "href": "journeys/index.html",
-    "title": "Journeys",
+    "objectID": "journeys/qinghai.html",
+    "href": "journeys/qinghai.html",
+    "title": "White Terror of the Qinghai Rhododendrons",
     "section": "",
-    "text": "Places that reshaped how I see the world.\nSome places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales."
+    "text": "Qinghai Province · Summer 2017\n\n\n2017-06-01 · Qinghai Province, China"
   },
   {
-    "objectID": "journeys/index.html#journeys",
-    "href": "journeys/index.html#journeys",
-    "title": "Journeys",
-    "section": "",
-    "text": "Places that reshaped how I see the world.\nSome places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales."
+    "objectID": "journeys/qinghai.html#reflection",
+    "href": "journeys/qinghai.html#reflection",
+    "title": "White Terror of the Qinghai Rhododendrons",
+    "section": "Reflection",
+    "text": "Reflection\nOne or two paragraphs.\nNot a summary.\nInstead, describe how this place changed the way you think."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "journeys/qinghai.html#related-ideas",
+    "href": "journeys/qinghai.html#related-ideas",
+    "title": "White Terror of the Qinghai Rhododendrons",
+    "section": "Related Ideas",
+    "text": "Related Ideas\n\nThinking Across Scales\nPolitical Ecology\nEcological Accounting"
+  },
+  {
+    "objectID": "journeys/qinghai.html#related-journeys",
+    "href": "journeys/qinghai.html#related-journeys",
+    "title": "White Terror of the Qinghai Rhododendrons",
+    "section": "Related Journeys",
+    "text": "Related Journeys\n\nEverglades\nHainan\nInner Mongolia"
+  },
+  {
+    "objectID": "journeys/inner-mongolia.html",
+    "href": "journeys/inner-mongolia.html",
+    "title": "When Forests Become Mines",
+    "section": "",
+    "text": "Illegal mining activities cleared protected forest in Inner Mongolia.\n\n\n\nThis case illustrates how ecological degradation often begins with seemingly localized disturbances but rapidly expands through landscape fragmentation.\n\n\n\nThis investigation changed the way I understood environmental damage.\nIt was no longer simply about forests.\nIt became a question about institutions, incentives, and governance.\n\n\n\nThe first time I realized that environmental damage is rarely ecological alone. …"
+  },
+  {
+    "objectID": "journeys/inner-mongolia.html#observation",
+    "href": "journeys/inner-mongolia.html#observation",
+    "title": "When Forests Become Mines",
+    "section": "",
+    "text": "Illegal mining activities cleared protected forest in Inner Mongolia."
+  },
+  {
+    "objectID": "journeys/inner-mongolia.html#scientific-context",
+    "href": "journeys/inner-mongolia.html#scientific-context",
+    "title": "When Forests Become Mines",
+    "section": "",
+    "text": "This case illustrates how ecological degradation often begins with seemingly localized disturbances but rapidly expands through landscape fragmentation."
+  },
+  {
+    "objectID": "journeys/inner-mongolia.html#reflection",
+    "href": "journeys/inner-mongolia.html#reflection",
+    "title": "When Forests Become Mines",
+    "section": "",
+    "text": "This investigation changed the way I understood environmental damage.\nIt was no longer simply about forests.\nIt became a question about institutions, incentives, and governance."
+  },
+  {
+    "objectID": "journeys/inner-mongolia.html#ecology-of-the-mind",
+    "href": "journeys/inner-mongolia.html#ecology-of-the-mind",
+    "title": "When Forests Become Mines",
+    "section": "",
+    "text": "The first time I realized that environmental damage is rarely ecological alone. …"
+  },
+  {
+    "objectID": "journeys/everglades.html",
+    "href": "journeys/everglades.html",
+    "title": "Journey Template",
+    "section": "",
+    "text": "Location · Years\n\n\n“A short reflection on how this place changed the way I think.”"
+  },
+  {
+    "objectID": "journeys/everglades.html#the-story",
+    "href": "journeys/everglades.html#the-story",
+    "title": "Journey Template",
+    "section": "The Story",
+    "text": "The Story\n\nBefore I Arrived\nUse this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.\n\n\nWhat I Observed\nDescribe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.\n\n\nWhat Changed\nExplain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.\n\n\nWhat Stayed With Me\nClose with a brief reflection on the lasting idea, question, or method that remained with you after leaving."
+  },
+  {
+    "objectID": "journeys/everglades.html#thinking-across-scales",
+    "href": "journeys/everglades.html#thinking-across-scales",
+    "title": "Journey Template",
+    "section": "Thinking Across Scales",
+    "text": "Thinking Across Scales\nThis is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative."
+  },
+  {
+    "objectID": "journeys/everglades.html#related-essays",
+    "href": "journeys/everglades.html#related-essays",
+    "title": "Journey Template",
+    "section": "Related Essays",
+    "text": "Related Essays\n\n\n\nEssay One\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Two\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Three\nA short note on how this idea connects to another piece of writing.\nRead more →"
+  },
+  {
+    "objectID": "garden/seeds/ecology-of-ideas.html",
+    "href": "garden/seeds/ecology-of-ideas.html",
+    "title": "Ecology of Ideas",
+    "section": "",
+    "text": "Ecology of Ideas\nStatus: 🌱 Seed\nOne sentence\nExplore how ecological ideas travel across cultures, generations, and political systems through conversations with overseas Chinese ecologists.\nQuestions\n\nWhy did they become ecologists?\nHow did China shape their thinking?\nHow did the U.S. change their thinking?\nWhich ecological concepts have been reinterpreted in China?\nHow has ecology become part of national narratives?\n\nPossible outputs\n\nDocumentary series\nPodcast\nEssays\nInteractive map\nInterview archive\n\nPossible sponsors\n\nESA\nUniversities\nFoundations\n\nRelated\nThinking Across Scales Journey The Ecology of the Mind"
+  },
+  {
+    "objectID": "garden/notes/qinghai.html",
+    "href": "garden/notes/qinghai.html",
     "title": "Thinking Across Scales",
     "section": "",
-    "text": "Thinking Across Scales\nHow studying landscapes became a way of understanding the world.\n\n\n\n\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\n\n\n\n\n\n\n\n⟲\n\n\nThinking Across Scales\nIdeas about feedback, hierarchy, dynamics, and systems.\nExplore →\n\n\n\n\n\n\n📍\n\n\nJourneys\nPlaces that transformed how I think.\nExplore →\n\n\n\n\n\n\n⌘\n\n\nComputational Thinking\nModern scientific workflows and digital craftsmanship.\nExplore →\n\n\n\n\n\n\n✍️\n\n\nWriting\nEssays, notes, and ongoing reflections.\nExplore →\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeatured Essay\n\nWhy Scale Matters\nAn exploration of scale as a guiding principle for science, design, and systems thinking.\nRead More →\n\n\n\n\n\n\n\n\n\n\nLatest Journey\n\nEverglades\nA field story about water, fire, networks, and the scales where landscape processes become visible.\nView Journey →\n\n\n\n\n\n\n\n\n“I am not interested in whether two systems look alike. I am interested in whether they are organized by the same principles.”\n\n\n\n\nThinking Across Scales\nBuilt with Quarto\nHosted on GitHub"
+    "text": "White Terror of the Qinghai Rhododendrons\nQinghai Province · Summer 2017\nHad it not been for the white rhododendrons blanketing the mountainside, the snow lingering on the peaks of the Qilian Range, and the crystalline air of four thousand meters, I might have left with the same emptiness carved into the riverbanks and hollowed out of the mountains themselves.\nPolicies descended from above.\nCigarette butts accumulated below.\nI walked across a mound of illegally excavated gravel, measuring distances that would later become estimates in a damage assessment report.\nA local official waited nearby.\nSmall in stature, weathered by the plateau, and speaking with a thick local accent, he never stopped smoking.\nOne cigarette after another.\nWe were standing more than four thousand meters above sea level.\nI could not help wondering how his lungs endured what the altitude had already made scarce.\nIn recent years, environmental policies had arrived one after another.\nEcological redlines.\nEcological compensation.\nGreen GDP.\nEach new directive burned brightly for a day, much like the cigarette between his fingers.\nThen the smoke drifted away.\nThe consequences, however, remained for a lifetime. We climbed higher into the valley.\nSnow still rested on the ridges above us.\nThe shaded slopes were covered by carpets of Qinghai rhododendrons in full bloom.\nTheir pale blossoms seemed to exist for beauty alone.\nThen, around the bend, another quarry appeared.\nAn entire mountainside had been sliced away.\nStanding there, I felt as though something had been cut from me as well."
+  },
+  {
+    "objectID": "garden/notes/guizhou.html",
+    "href": "garden/notes/guizhou.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "The Fall of a Tulip Tree\nGuizhou, China · May 2017\nIt had survived the ice ages of the Quaternary, only to fall beneath the steel teeth of an excavator.\nA stand of wild Chinese tulip trees (Liriodendron chinense), an ancient magnolia lineage and a nationally protected species in China, had been cleared to make way for a road leading to a wind farm. Nearby, another protected species, Magnolia officinalis var. biloba, faced an uncertain future.\nAt first glance, the question seemed obvious: should we save the road or save the trees?\nBut standing there, I realized that was the wrong question.\nWas renewable energy always sustainable? Not necessarily.\nWas this simply a conflict between economic development and environmental protection? I no longer believed that either.\nSomething deeper was unfolding beneath the surface.\nI arrived at the site in a vehicle provided by the state-owned wind power company itself.\nThey were proud of the road we were driving on—it had been built by their company.\nAs an investigator, however, I could not ignore the irony.\nThe people leading the investigation were also the people being investigated.\nEvery destination depended on their guidance. Every conversation happened on their terms.\nLong before I reached the forest, I had already begun wondering whether independent observation was even possible.\nDuring every break, I wandered over to talk with the construction workers.\nI never saw them as “ordinary laborers.”\nIf anything, they were the anonymous builders carrying the weight of the country’s ambitions on their shoulders.\nI photographed them as they assembled turbines against the mountains.\nOne worker smiled when I promised to send him the photos so he could show his family.\nFor a moment, I wondered why he had never taken these pictures himself.\nThen the answer came quietly.\nBy the end of the day, work had already consumed everything.\nSurvival leaves little room for poetry."
+  },
+  {
+    "objectID": "garden/capture/inner-mongolia-wechat.html",
+    "href": "garden/capture/inner-mongolia-wechat.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Y博士巡护祖国生态系列之内蒙古包头站–非法采矿生态破坏鉴定评估。7个半小时26公里的山路，走的不是辛苦，是心酸。曾经当地领导的发展观是“宁愿呛死也不愿饿死”，不计代价不顾后果的上项目拼指标换来的是什么？死路一条？此路不通"
+  },
+  {
+    "objectID": "garden/capture/guizhou-wechat.html",
+    "href": "garden/capture/guizhou-wechat.html",
+    "title": "鹅掌楸之殇",
+    "section": "",
+    "text": "5/17/2017 尽管穿越了第四纪冰期的严寒，却无法逃脱挖掘机的铁爪。国家二级保护植物、古老的木兰科被子植物鹅掌楸Chinese tulip tree（别名：马褂木）原生天然林在贵州省某地被铲平，倒在风力发电的铺路石下！同为国家二级保护植物的凹叶厚朴同样深陷困境，前途未知！是要保路还是要护树？不是两难问题，是表面问题。可再生能源的开发是可持续发展？未必。深藏幕后的核心冲突是经济发展和生态保护？在我看来也不是。\n我作为一个调查人员和某国营风力发电公司的坐在同一辆车上，他们很自豪，进山里的路就是他们公司修起来的。我坐在这样的车里，四个人，司机，负责接待的办事员，首先觉得这样的被告和裁判没有独立，作为调查人员不能单独调查，去任何地方都要他们带路让我失去了行动自由，也就意味着我是不可能有独立的思考的。这里设计国家制度设计的司法独立，已经不能在这里这个简单的故事里讨论了。作为tech geek， 我最好奇的是选址，为什么要在贵州这个山区，这么偏僻的地方建风电？？这个问题我最费解，怎么看都不是合适的地方。首先就是没有风！风力能达到最低选址要求吗？我就问这个办事人员，风电的费用啊，规模啊，他告诉我的是，现在的建风电场主要是国家补贴！我一听就恼火，我就知道，一方面是作为科学家的hypothsis testing 这个地方达不到风力等级,得到证实。另一方吗就是因为，这个熟悉的故事，国家意志凌驾于生态、民生。因为第一次近距离看风电，我有巨物恐惧症啊，看到工人们在施工拼装的时候，我还是很震惊，每到下车活动手脚的时候都跟民工师傅们交流，我从来不觉得他们是‘下等公民’，而相反，他们是unsung hero! 当然这个解读肯定是美利坚的，在国内的叙事是奉献。我给他们拍照，我想把他们在国家第一线，了无人烟的工地热火朝天的工作场景记录下来，我说要发给他，他很高兴，说要发给家里人。我想为什么问他们自己不拍照吗？他们也不是没有手机。转头一想，我自己有了答案，而是工作已经耗尽了所有，眼前只有材米油盐，而不是诗和远方。更加不会把自己的工作上升到无名英雄而自豪吧。"
+  },
+  {
+    "objectID": "garden/capture/guizhou-wechat.html#y博士巡护祖国生态系列之贵州站",
+    "href": "garden/capture/guizhou-wechat.html#y博士巡护祖国生态系列之贵州站",
+    "title": "鹅掌楸之殇",
+    "section": "",
+    "text": "5/17/2017 尽管穿越了第四纪冰期的严寒，却无法逃脱挖掘机的铁爪。国家二级保护植物、古老的木兰科被子植物鹅掌楸Chinese tulip tree（别名：马褂木）原生天然林在贵州省某地被铲平，倒在风力发电的铺路石下！同为国家二级保护植物的凹叶厚朴同样深陷困境，前途未知！是要保路还是要护树？不是两难问题，是表面问题。可再生能源的开发是可持续发展？未必。深藏幕后的核心冲突是经济发展和生态保护？在我看来也不是。\n我作为一个调查人员和某国营风力发电公司的坐在同一辆车上，他们很自豪，进山里的路就是他们公司修起来的。我坐在这样的车里，四个人，司机，负责接待的办事员，首先觉得这样的被告和裁判没有独立，作为调查人员不能单独调查，去任何地方都要他们带路让我失去了行动自由，也就意味着我是不可能有独立的思考的。这里设计国家制度设计的司法独立，已经不能在这里这个简单的故事里讨论了。作为tech geek， 我最好奇的是选址，为什么要在贵州这个山区，这么偏僻的地方建风电？？这个问题我最费解，怎么看都不是合适的地方。首先就是没有风！风力能达到最低选址要求吗？我就问这个办事人员，风电的费用啊，规模啊，他告诉我的是，现在的建风电场主要是国家补贴！我一听就恼火，我就知道，一方面是作为科学家的hypothsis testing 这个地方达不到风力等级,得到证实。另一方吗就是因为，这个熟悉的故事，国家意志凌驾于生态、民生。因为第一次近距离看风电，我有巨物恐惧症啊，看到工人们在施工拼装的时候，我还是很震惊，每到下车活动手脚的时候都跟民工师傅们交流，我从来不觉得他们是‘下等公民’，而相反，他们是unsung hero! 当然这个解读肯定是美利坚的，在国内的叙事是奉献。我给他们拍照，我想把他们在国家第一线，了无人烟的工地热火朝天的工作场景记录下来，我说要发给他，他很高兴，说要发给家里人。我想为什么问他们自己不拍照吗？他们也不是没有手机。转头一想，我自己有了答案，而是工作已经耗尽了所有，眼前只有材米油盐，而不是诗和远方。更加不会把自己的工作上升到无名英雄而自豪吧。"
   },
   {
     "objectID": "docs/project_context/vision.html",
@@ -68,6 +180,83 @@
     "title": "Thinking Across Scales",
     "section": "",
     "text": "Status: Investigating.\nSymptoms: Bootstrap columns stack vertically.\nPriority: Low\nReason: Does not block content creation."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/workflows/publish-journey-trailer.html",
+    "href": "docs/design_system/prompts_library/workflows/publish-journey-trailer.html",
+    "title": "Publish Journey",
+    "section": "",
+    "text": "Create journeys/guizhou.qmd.\n\n\n\ngarden/notes/guizhou.md\njourneys/journey-template.qmd\n\nUse garden/notes/guizhou.md as the single source of truth.\nFollow the layout defined in journey-template.qmd.\n\n\n\n\nYou are not a writer.\nYou are a publisher.\nYour job is to transform an approved Journey manuscript into a Quarto page.\nDo NOT rewrite.\nDo NOT summarize.\nDo NOT improve the prose.\nProtect the author’s voice.\nYour responsibility is layout only."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/workflows/publish-journey-trailer.html#inputs",
+    "href": "docs/design_system/prompts_library/workflows/publish-journey-trailer.html#inputs",
+    "title": "Publish Journey",
+    "section": "",
+    "text": "garden/notes/guizhou.md\njourneys/journey-template.qmd\n\nUse garden/notes/guizhou.md as the single source of truth.\nFollow the layout defined in journey-template.qmd."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/workflows/publish-journey-trailer.html#writing-philosophy",
+    "href": "docs/design_system/prompts_library/workflows/publish-journey-trailer.html#writing-philosophy",
+    "title": "Publish Journey",
+    "section": "",
+    "text": "You are not a writer.\nYou are a publisher.\nYour job is to transform an approved Journey manuscript into a Quarto page.\nDo NOT rewrite.\nDo NOT summarize.\nDo NOT improve the prose.\nProtect the author’s voice.\nYour responsibility is layout only."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/journey-index.html",
+    "href": "docs/design_system/prompts_library/pages/journey-index.html",
+    "title": "Journey Index Page Specification",
+    "section": "",
+    "text": "Design the index page for the Journeys section of my Quarto website.\nThis is NOT a travel blog.\nIt is an atlas of places that fundamentally transformed how I think.\nThe page should communicate curiosity, reflection, exploration, and intellectual growth.\nThis page serves as the primary navigation page for all Journey articles."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/journey-index.html#purpose",
+    "href": "docs/design_system/prompts_library/pages/journey-index.html#purpose",
+    "title": "Journey Index Page Specification",
+    "section": "",
+    "text": "Design the index page for the Journeys section of my Quarto website.\nThis is NOT a travel blog.\nIt is an atlas of places that fundamentally transformed how I think.\nThe page should communicate curiosity, reflection, exploration, and intellectual growth.\nThis page serves as the primary navigation page for all Journey articles."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an environmental scientist, writer, and systems thinker.\nMy work explores how ecological thinking can illuminate not only natural systems, but also organizations, cultures, and the human mind."
+  },
+  {
+    "objectID": "docs/design_system/philosophy/writing.html",
+    "href": "docs/design_system/philosophy/writing.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "The template organizes the page, but never dictates the narrative.\nThe English version is not a translation of the Chinese. It is another telling of the same journey.\nEvery Journey should have one sentence that cannot be forgotten."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/components/maps.html",
+    "href": "docs/design_system/prompts_library/components/maps.html",
+    "title": "World Map Component",
+    "section": "",
+    "text": "Create a reusable SVG world map component for a Quarto website.\nThe map should become the primary navigation interface for the Journeys section.\nIt should be lightweight.\nNo JavaScript.\nUse inline SVG.\nDesign Style\nMinimal\nEditorial\nMuted earth tones\nThin coastlines\nLots of whitespace\nDo not use Google Maps.\nDo not use Leaflet.\nDo not use Mapbox.\nLocations\nEverglades\nYellowstone\nYunnan\nTibet\nMaine\nSacramento\nEach location should appear as a circular marker.\nEach marker should link to its corresponding Journey page.\nThe SVG should scale responsively."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/components/maps.html#purpose",
+    "href": "docs/design_system/prompts_library/components/maps.html#purpose",
+    "title": "World Map Component",
+    "section": "",
+    "text": "Create a reusable SVG world map component for a Quarto website.\nThe map should become the primary navigation interface for the Journeys section.\nIt should be lightweight.\nNo JavaScript.\nUse inline SVG.\nDesign Style\nMinimal\nEditorial\nMuted earth tones\nThin coastlines\nLots of whitespace\nDo not use Google Maps.\nDo not use Leaflet.\nDo not use Mapbox.\nLocations\nEverglades\nYellowstone\nYunnan\nTibet\nMaine\nSacramento\nEach location should appear as a circular marker.\nEach marker should link to its corresponding Journey page.\nThe SVG should scale responsively."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/homepage.html",
+    "href": "docs/design_system/prompts_library/pages/homepage.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "You are an expert Quarto website developer, UX designer, and frontend engineer.\nYour task is to create a production-ready landing page (index.qmd) for my personal website.\nDo not explain your reasoning.\nGenerate clean, maintainable Quarto Markdown with Bootstrap 5.\nDo not use JavaScript.\nDo not use external frameworks.\nOnly generate code.\n\n\n\nPROJECT\n\n\n\nWebsite Title:\nThinking Across Scales\nWebsite Theme:\nA digital garden documenting how landscape ecology evolved into a broader way of understanding systems, feedback, patterns, dynamics, and scale across science, technology, organizations, and everyday life.\nThe design should feel like:\n• Apple • Notion • Linear • Stripe • Modern academic website\nKeywords:\nminimal elegant scientific storytelling lots of whitespace responsive timeless\n\n\n\nLAYOUT\n\n\n\nCreate the following sections.\n==================================================== 1. HERO ====================================================\nLarge centered title:\nThinking Across Scales\nSubtitle:\nHow studying landscapes became a way of understanding the world.\nUse a full-width hero image.\nFor now use a placeholder image.\nLater I will replace it with my own Everglades photograph.\nThe hero should occupy about 60–70% of the first screen.\nLarge typography.\nMinimal overlay.\n==================================================== 2. INTRODUCTION ====================================================\nBelow the hero.\nUse approximately 120 words.\nText:\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\nCentered with generous margins.\n==================================================== 3. FEATURE CARDS ====================================================\nCreate four equal Bootstrap cards.\nCard 1\nTitle\nThinking Across Scales\nDescription\nIdeas about feedback, hierarchy, dynamics, and systems.\n\nCard 2\nTitle\nJourneys\nDescription\nPlaces that transformed how I think.\n\nCard 3\nTitle\nComputational Thinking\nDescription\nModern scientific workflows and digital craftsmanship.\n\nCard 4\nTitle\nWriting\nDescription\nEssays, notes, and ongoing reflections.\n\nEach card should contain:\nBootstrap Icon\nTitle\nDescription\nSimple “Explore →” link\nHover effect using CSS only.\n==================================================== 4. FEATURED CONTENT ====================================================\nCreate two side-by-side highlight panels.\nLeft\nFeatured Essay\nTitle:\nWhy Scale Matters\nPlaceholder image\nShort description\nButton:\nRead More →\n\nRight\nLatest Journey\nTitle:\nEverglades\nPlaceholder image\nShort description\nButton:\nView Journey →\n==================================================== 5. QUOTE ====================================================\nCreate a full-width elegant quote section.\nQuote:\n“I am not interested in whether two systems look alike.\nI am interested in whether they are organized by the same principles.”\nLarge serif typography.\nCentered.\nSubtle background color.\n==================================================== 6. FOOTER ====================================================\nSimple footer.\nLeft\nThinking Across Scales\nCenter\nBuilt with Quarto\nRight\nHosted on GitHub\n\n\n\nSTYLE\n\n\n\nUse Bootstrap 5.\nResponsive on desktop and mobile.\nLots of whitespace.\nAvoid heavy borders.\nUse subtle shadows.\nRounded corners.\nProfessional typography.\nNo flashy animations.\nNo JavaScript.\n\n\n\nOUTPUT\n\n\n\nGenerate:\n\nindex.qmd\nassets/css/custom.css\nAny required YAML.\n\nUse relative paths.\nThe code should be ready to render immediately in Quarto.\nReturn only code."
+  },
+  {
+    "objectID": "docs/design_system/prompts_library/pages/journey-template.html",
+    "href": "docs/design_system/prompts_library/pages/journey-template.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Create a reusable Quarto page template for a Journey.\nThis is NOT a travel blog.\nIt is a story about how a place transformed the way I think.\nThe design should feel calm, spacious, reflective, and editorial.\nUse the same visual language as the Landing Page.\n\nPage Structure\n\nHero Section\n\nLarge immersive landscape image\nJourney title\nLocation\nYears\nOne-sentence reflection\nExample:\nEverglades\nFlorida, USA\n2008–2012\n“The landscape where I first learned to think across scales.”\n\n\nAt a Glance\n\nDisplay as four elegant cards\nLocation\nYears\nThemes\nRelated Research\n\n\nThe Story\n\nLong-form narrative.\nUse large readable typography.\nBreak into sections.\nSuggested headings:\nBefore I Arrived\nWhat I Observed\nWhat Changed\nWhat Stayed With Me\n\n\nGallery\n\nResponsive image gallery.\nLarge images with short captions.\n\n\nThinking Across Scales\n\nThis is the signature section.\nSummarize how this place changed my understanding of systems, scale, feedback, or complexity.\nThis section should be visually distinguished from the main story.\n\n\nRelated Essays\n\nDisplay 3 linked essays as cards.\n\nDesign Principles\nMinimal\nEditorial\nElegant\nLots of whitespace\nNo unnecessary decorations\nResponsive\nUse Bootstrap Grid\nDo not invent placeholder content beyond demonstrating layout.\nFocus on creating a reusable template rather than a finished article."
   },
   {
     "objectID": "docs/design_system/prompts_library/refinements/world-map-v1.html",
@@ -133,53 +322,32 @@
     "text": "8. Future compatibility\nKeep the implementation compatible with future additions such as\nTimeline\nJourney filtering\nMarker categories\nAnimated routes\nDo not implement these features now.\nSimply organize the code so future expansion is straightforward.\n\nDo not redesign the page.\nOnly improve the Mapbox component.\nThe goal is to create a reusable World Map component for the entire website."
   },
   {
-    "objectID": "docs/design_system/prompts_library/pages/journey-template.html",
-    "href": "docs/design_system/prompts_library/pages/journey-template.html",
-    "title": "Thinking Across Scales",
+    "objectID": "docs/design_system/prompts_library/workflows/journey-pipeline.html",
+    "href": "docs/design_system/prompts_library/workflows/journey-pipeline.html",
+    "title": "Journey Pipeline",
     "section": "",
-    "text": "Create a reusable Quarto page template for a Journey.\nThis is NOT a travel blog.\nIt is a story about how a place transformed the way I think.\nThe design should feel calm, spacious, reflective, and editorial.\nUse the same visual language as the Landing Page.\n\nPage Structure\n\nHero Section\n\nLarge immersive landscape image\nJourney title\nLocation\nYears\nOne-sentence reflection\nExample:\nEverglades\nFlorida, USA\n2008–2012\n“The landscape where I first learned to think across scales.”\n\n\nAt a Glance\n\nDisplay as four elegant cards\nLocation\nYears\nThemes\nRelated Research\n\n\nThe Story\n\nLong-form narrative.\nUse large readable typography.\nBreak into sections.\nSuggested headings:\nBefore I Arrived\nWhat I Observed\nWhat Changed\nWhat Stayed With Me\n\n\nGallery\n\nResponsive image gallery.\nLarge images with short captions.\n\n\nThinking Across Scales\n\nThis is the signature section.\nSummarize how this place changed my understanding of systems, scale, feedback, or complexity.\nThis section should be visually distinguished from the main story.\n\n\nRelated Essays\n\nDisplay 3 linked essays as cards.\n\nDesign Principles\nMinimal\nEditorial\nElegant\nLots of whitespace\nNo unnecessary decorations\nResponsive\nUse Bootstrap Grid\nDo not invent placeholder content beyond demonstrating layout.\nFocus on creating a reusable template rather than a finished article."
+    "text": "Transform raw travel materials into a published Journey page while preserving the author’s voice. Preserve the author’s narrative voice. Never replace a vivid scene with a structural heading. Structure should guide the writing, not become visible to the reader.\n\n\n\n\n\ngarden/capture/.md\nPhotos (optional)\n\n\n\n\n\nStep 1\nRead the capture file.\nDo not rewrite immediately.\nIdentify\n\ntimeline\nimportant scenes\nturning points\nrecurring themes\n\n\nStep 2\nProduce a curated Journey Note.\nRequirements\n\npreserve my voice\nremove repetition\ndo not invent facts\nkeep chronology\nhighlight insights\n\nSave as\ngarden/notes/.md\n\nStep 3\nReview manually.\nAdd reflections that only I can write.\n\nStep 4\nGenerate\njourneys/.qmd\nusing\njourneys/journey-template.qmd\n\nStep 5\nLink images.\nExport only web-sized images.\n\nOutput\nA published Journey page."
   },
   {
-    "objectID": "docs/design_system/prompts_library/pages/homepage.html",
-    "href": "docs/design_system/prompts_library/pages/homepage.html",
-    "title": "Thinking Across Scales",
+    "objectID": "docs/design_system/prompts_library/workflows/journey-pipeline.html#purpose",
+    "href": "docs/design_system/prompts_library/workflows/journey-pipeline.html#purpose",
+    "title": "Journey Pipeline",
     "section": "",
-    "text": "You are an expert Quarto website developer, UX designer, and frontend engineer.\nYour task is to create a production-ready landing page (index.qmd) for my personal website.\nDo not explain your reasoning.\nGenerate clean, maintainable Quarto Markdown with Bootstrap 5.\nDo not use JavaScript.\nDo not use external frameworks.\nOnly generate code.\n\n\n\nPROJECT\n\n\n\nWebsite Title:\nThinking Across Scales\nWebsite Theme:\nA digital garden documenting how landscape ecology evolved into a broader way of understanding systems, feedback, patterns, dynamics, and scale across science, technology, organizations, and everyday life.\nThe design should feel like:\n• Apple • Notion • Linear • Stripe • Modern academic website\nKeywords:\nminimal elegant scientific storytelling lots of whitespace responsive timeless\n\n\n\nLAYOUT\n\n\n\nCreate the following sections.\n==================================================== 1. HERO ====================================================\nLarge centered title:\nThinking Across Scales\nSubtitle:\nHow studying landscapes became a way of understanding the world.\nUse a full-width hero image.\nFor now use a placeholder image.\nLater I will replace it with my own Everglades photograph.\nThe hero should occupy about 60–70% of the first screen.\nLarge typography.\nMinimal overlay.\n==================================================== 2. INTRODUCTION ====================================================\nBelow the hero.\nUse approximately 120 words.\nText:\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\nCentered with generous margins.\n==================================================== 3. FEATURE CARDS ====================================================\nCreate four equal Bootstrap cards.\nCard 1\nTitle\nThinking Across Scales\nDescription\nIdeas about feedback, hierarchy, dynamics, and systems.\n\nCard 2\nTitle\nJourneys\nDescription\nPlaces that transformed how I think.\n\nCard 3\nTitle\nComputational Thinking\nDescription\nModern scientific workflows and digital craftsmanship.\n\nCard 4\nTitle\nWriting\nDescription\nEssays, notes, and ongoing reflections.\n\nEach card should contain:\nBootstrap Icon\nTitle\nDescription\nSimple “Explore →” link\nHover effect using CSS only.\n==================================================== 4. FEATURED CONTENT ====================================================\nCreate two side-by-side highlight panels.\nLeft\nFeatured Essay\nTitle:\nWhy Scale Matters\nPlaceholder image\nShort description\nButton:\nRead More →\n\nRight\nLatest Journey\nTitle:\nEverglades\nPlaceholder image\nShort description\nButton:\nView Journey →\n==================================================== 5. QUOTE ====================================================\nCreate a full-width elegant quote section.\nQuote:\n“I am not interested in whether two systems look alike.\nI am interested in whether they are organized by the same principles.”\nLarge serif typography.\nCentered.\nSubtle background color.\n==================================================== 6. FOOTER ====================================================\nSimple footer.\nLeft\nThinking Across Scales\nCenter\nBuilt with Quarto\nRight\nHosted on GitHub\n\n\n\nSTYLE\n\n\n\nUse Bootstrap 5.\nResponsive on desktop and mobile.\nLots of whitespace.\nAvoid heavy borders.\nUse subtle shadows.\nRounded corners.\nProfessional typography.\nNo flashy animations.\nNo JavaScript.\n\n\n\nOUTPUT\n\n\n\nGenerate:\n\nindex.qmd\nassets/css/custom.css\nAny required YAML.\n\nUse relative paths.\nThe code should be ready to render immediately in Quarto.\nReturn only code."
+    "text": "Transform raw travel materials into a published Journey page while preserving the author’s voice. Preserve the author’s narrative voice. Never replace a vivid scene with a structural heading. Structure should guide the writing, not become visible to the reader."
   },
   {
-    "objectID": "docs/design_system/prompts_library/components/maps.html",
-    "href": "docs/design_system/prompts_library/components/maps.html",
-    "title": "World Map Component",
+    "objectID": "docs/design_system/prompts_library/workflows/journey-pipeline.html#inputs",
+    "href": "docs/design_system/prompts_library/workflows/journey-pipeline.html#inputs",
+    "title": "Journey Pipeline",
     "section": "",
-    "text": "Create a reusable SVG world map component for a Quarto website.\nThe map should become the primary navigation interface for the Journeys section.\nIt should be lightweight.\nNo JavaScript.\nUse inline SVG.\nDesign Style\nMinimal\nEditorial\nMuted earth tones\nThin coastlines\nLots of whitespace\nDo not use Google Maps.\nDo not use Leaflet.\nDo not use Mapbox.\nLocations\nEverglades\nYellowstone\nYunnan\nTibet\nMaine\nSacramento\nEach location should appear as a circular marker.\nEach marker should link to its corresponding Journey page.\nThe SVG should scale responsively."
+    "text": "garden/capture/.md\nPhotos (optional)"
   },
   {
-    "objectID": "docs/design_system/prompts_library/components/maps.html#purpose",
-    "href": "docs/design_system/prompts_library/components/maps.html#purpose",
-    "title": "World Map Component",
+    "objectID": "docs/design_system/prompts_library/workflows/journey-pipeline.html#workflow",
+    "href": "docs/design_system/prompts_library/workflows/journey-pipeline.html#workflow",
+    "title": "Journey Pipeline",
     "section": "",
-    "text": "Create a reusable SVG world map component for a Quarto website.\nThe map should become the primary navigation interface for the Journeys section.\nIt should be lightweight.\nNo JavaScript.\nUse inline SVG.\nDesign Style\nMinimal\nEditorial\nMuted earth tones\nThin coastlines\nLots of whitespace\nDo not use Google Maps.\nDo not use Leaflet.\nDo not use Mapbox.\nLocations\nEverglades\nYellowstone\nYunnan\nTibet\nMaine\nSacramento\nEach location should appear as a circular marker.\nEach marker should link to its corresponding Journey page.\nThe SVG should scale responsively."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am an environmental scientist, writer, and systems thinker.\nMy work explores how ecological thinking can illuminate not only natural systems, but also organizations, cultures, and the human mind."
-  },
-  {
-    "objectID": "docs/design_system/prompts_library/pages/journey-index.html",
-    "href": "docs/design_system/prompts_library/pages/journey-index.html",
-    "title": "Journey Index Page Specification",
-    "section": "",
-    "text": "Design the index page for the Journeys section of my Quarto website.\nThis is NOT a travel blog.\nIt is an atlas of places that fundamentally transformed how I think.\nThe page should communicate curiosity, reflection, exploration, and intellectual growth.\nThis page serves as the primary navigation page for all Journey articles."
-  },
-  {
-    "objectID": "docs/design_system/prompts_library/pages/journey-index.html#purpose",
-    "href": "docs/design_system/prompts_library/pages/journey-index.html#purpose",
-    "title": "Journey Index Page Specification",
-    "section": "",
-    "text": "Design the index page for the Journeys section of my Quarto website.\nThis is NOT a travel blog.\nIt is an atlas of places that fundamentally transformed how I think.\nThe page should communicate curiosity, reflection, exploration, and intellectual growth.\nThis page serves as the primary navigation page for all Journey articles."
+    "text": "Step 1\nRead the capture file.\nDo not rewrite immediately.\nIdentify\n\ntimeline\nimportant scenes\nturning points\nrecurring themes\n\n\nStep 2\nProduce a curated Journey Note.\nRequirements\n\npreserve my voice\nremove repetition\ndo not invent facts\nkeep chronology\nhighlight insights\n\nSave as\ngarden/notes/.md\n\nStep 3\nReview manually.\nAdd reflections that only I can write.\n\nStep 4\nGenerate\njourneys/.qmd\nusing\njourneys/journey-template.qmd\n\nStep 5\nLink images.\nExport only web-sized images.\n\nOutput\nA published Journey page."
   },
   {
     "objectID": "docs/project_context/writing_style.html",
@@ -189,95 +357,109 @@
     "text": "Tone\n• thoughtful • reflective • interdisciplinary\nAvoid\n• buzzwords • clickbait • overly academic language"
   },
   {
-    "objectID": "journeys/everglades.html",
-    "href": "journeys/everglades.html",
-    "title": "Journey Template",
+    "objectID": "garden/capture/qinghai-wechat.html",
+    "href": "garden/capture/qinghai-wechat.html",
+    "title": "青海杜鹃的白色恐怖",
     "section": "",
-    "text": "Location · Years\n\n\n“A short reflection on how this place changed the way I think.”"
+    "text": "如果不是满山盛开的白色青海杜鹃，积雪祁连山山顶下开阔的草原，清冽的高海拔空气，我可能会随着被挖坑河滩和被掘空的山体而心中空空。上边的政策，下边的烟头。\n驱车来到河边，我站在非法采石堆成的小山包那里测量距离，这样回去可以跟上司汇报，估算项目的费用。来接待我的办事员站在不远处，小个头， 干瘦，肤色也是典型的高原色，应该是少数名族小伙，本地口音很重。手里的烟头自打我测量起就没有停过，一根儿接着一根儿。这可是海拔4000多的高原啦，肺能受得了吗？看着他碾碎在河滩边的一地烟头，我不禁感概万千：近年来，政府的红头文件三天两头发，前有生态红线，后有生态损害赔偿，中间还有绿色GDP，每一个文件都好似他手里的那根浸满尼古丁的烟，兴奋一天，结果一溜烟儿，后果是一辈子，老百姓的一生。\n河边的石矿看完，他领着我往山上走去。这是个河谷，两边的山顶还有积雪，走上山顶可以俯瞰整个河谷。山坡背阴面是地毯版的青海杜鹃，在这个季节盛开，乳白色的大花心中只有对风景的向往，但真正来到半山腰，另一个非法采石的地点，看着一整个巨大的山体被削去一刀，我的心也被割去了一块。"
   },
   {
-    "objectID": "journeys/everglades.html#the-story",
-    "href": "journeys/everglades.html#the-story",
-    "title": "Journey Template",
+    "objectID": "garden/capture/qinghai-wechat.html#y博士巡护祖国生态之青海站",
+    "href": "garden/capture/qinghai-wechat.html#y博士巡护祖国生态之青海站",
+    "title": "青海杜鹃的白色恐怖",
+    "section": "",
+    "text": "如果不是满山盛开的白色青海杜鹃，积雪祁连山山顶下开阔的草原，清冽的高海拔空气，我可能会随着被挖坑河滩和被掘空的山体而心中空空。上边的政策，下边的烟头。\n驱车来到河边，我站在非法采石堆成的小山包那里测量距离，这样回去可以跟上司汇报，估算项目的费用。来接待我的办事员站在不远处，小个头， 干瘦，肤色也是典型的高原色，应该是少数名族小伙，本地口音很重。手里的烟头自打我测量起就没有停过，一根儿接着一根儿。这可是海拔4000多的高原啦，肺能受得了吗？看着他碾碎在河滩边的一地烟头，我不禁感概万千：近年来，政府的红头文件三天两头发，前有生态红线，后有生态损害赔偿，中间还有绿色GDP，每一个文件都好似他手里的那根浸满尼古丁的烟，兴奋一天，结果一溜烟儿，后果是一辈子，老百姓的一生。\n河边的石矿看完，他领着我往山上走去。这是个河谷，两边的山顶还有积雪，走上山顶可以俯瞰整个河谷。山坡背阴面是地毯版的青海杜鹃，在这个季节盛开，乳白色的大花心中只有对风景的向往，但真正来到半山腰，另一个非法采石的地点，看着一整个巨大的山体被削去一刀，我的心也被割去了一块。"
+  },
+  {
+    "objectID": "garden/projects/ecological-accounting.html",
+    "href": "garden/projects/ecological-accounting.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Working title\nEcological Accounting: Thinking about Ecological Compensation and Natural Resource Damage Assessment as Two Temporal Forms of the Same Theory. Core idea\nEcological payment\n↓\nPay before degradation.\nEcological damage assessment\n↓\nPay after degradation.\nBoth are attempts to assign value to ecosystem services across time. Status\n🌱 Seed\nNatural resource damage assessment and ecological compensation are not separate policies, but two complementary ways of assigning value to ecosystems across time.\nEvidence\nGuizhou Hainan …\nQuestions\nHow did this framework evolve? How is it interpreted differently in China and elsewhere?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thinking Across Scales",
+    "section": "",
+    "text": "Thinking Across Scales\nHow studying landscapes became a way of understanding the world.\n\n\n\n\nI was trained as a landscape ecologist, where the most important lesson was not about landscapes themselves, but about learning to think across scales. Over time, that perspective expanded beyond ecology into computation, organizations, design, and everyday life. This website is an evolving record of that journey.\n\n\n\n\n\n\n\n⟲\n\n\nThinking Across Scales\nIdeas about feedback, hierarchy, dynamics, and systems.\nExplore →\n\n\n\n\n\n\n📍\n\n\nJourneys\nPlaces that transformed how I think.\nExplore →\n\n\n\n\n\n\n⌘\n\n\nComputational Thinking\nModern scientific workflows and digital craftsmanship.\nExplore →\n\n\n\n\n\n\n✍️\n\n\nWriting\nEssays, notes, and ongoing reflections.\nExplore →\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeatured Essay\n\nWhy Scale Matters\nAn exploration of scale as a guiding principle for science, design, and systems thinking.\nRead More →\n\n\n\n\n\n\n\n\n\n\nLatest Journey\n\nEverglades\nA field story about water, fire, networks, and the scales where landscape processes become visible.\nView Journey →\n\n\n\n\n\n\n\n\n“I am not interested in whether two systems look alike. I am interested in whether they are organized by the same principles.”\n\n\n\n\nThinking Across Scales\nBuilt with Quarto\nHosted on GitHub"
+  },
+  {
+    "objectID": "journeys/guizhou.html",
+    "href": "journeys/guizhou.html",
+    "title": "The Fall of a Tulip Tree",
+    "section": "",
+    "text": "Guizhou, China · May 2017"
+  },
+  {
+    "objectID": "journeys/guizhou.html#overview",
+    "href": "journeys/guizhou.html#overview",
+    "title": "The Fall of a Tulip Tree",
+    "section": "Overview",
+    "text": "Overview\nIt had survived the ice ages of the Quaternary, only to fall beneath the steel teeth of an excavator.\nA stand of wild Chinese tulip trees (Liriodendron chinense), an ancient magnolia lineage and a nationally protected species in China, had been cleared to make way for a road leading to a wind farm. Nearby, another protected species, Magnolia officinalis var. biloba, faced an uncertain future."
+  },
+  {
+    "objectID": "journeys/guizhou.html#the-story",
+    "href": "journeys/guizhou.html#the-story",
+    "title": "The Fall of a Tulip Tree",
     "section": "The Story",
-    "text": "The Story\n\nBefore I Arrived\nUse this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.\n\n\nWhat I Observed\nDescribe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.\n\n\nWhat Changed\nExplain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.\n\n\nWhat Stayed With Me\nClose with a brief reflection on the lasting idea, question, or method that remained with you after leaving."
+    "text": "The Story\nAt first glance, the question seemed obvious: should we save the road or save the trees?\nBut standing there, I realized that was the wrong question.\nWas renewable energy always sustainable? Not necessarily.\nWas this simply a conflict between economic development and environmental protection? I no longer believed that either.\nSomething deeper was unfolding beneath the surface.\nI arrived at the site in a vehicle provided by the state-owned wind power company itself.\nThey were proud of the road we were driving on—it had been built by their company.\nAs an investigator, however, I could not ignore the irony.\nThe people leading the investigation were also the people being investigated.\nEvery destination depended on their guidance. Every conversation happened on their terms.\nLong before I reached the forest, I had already begun wondering whether independent observation was even possible.\nDuring every break, I wandered over to talk with the construction workers.\nI never saw them as “ordinary laborers.”\nIf anything, they were the anonymous builders carrying the weight of the country’s ambitions on their shoulders.\nI photographed them as they assembled turbines against the mountains.\nOne worker smiled when I promised to send him the photos so he could show his family.\nFor a moment, I wondered why he had never taken these pictures himself.\nThen the answer came quietly.\nBy the end of the day, work had already consumed everything.\nSurvival leaves little room for poetry."
   },
   {
-    "objectID": "journeys/everglades.html#thinking-across-scales",
-    "href": "journeys/everglades.html#thinking-across-scales",
-    "title": "Journey Template",
-    "section": "Thinking Across Scales",
-    "text": "Thinking Across Scales\nThis is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative."
+    "objectID": "journeys/guizhou.html#reflection",
+    "href": "journeys/guizhou.html#reflection",
+    "title": "The Fall of a Tulip Tree",
+    "section": "Reflection",
+    "text": "Reflection\nSurvival leaves little room for poetry."
   },
   {
-    "objectID": "journeys/everglades.html#related-essays",
-    "href": "journeys/everglades.html#related-essays",
-    "title": "Journey Template",
-    "section": "Related Essays",
-    "text": "Related Essays\n\n\n\nEssay One\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Two\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Three\nA short note on how this idea connects to another piece of writing.\nRead more →"
+    "objectID": "journeys/guizhou.html#related-ideas",
+    "href": "journeys/guizhou.html#related-ideas",
+    "title": "The Fall of a Tulip Tree",
+    "section": "Related Ideas",
+    "text": "Related Ideas\n\n\n\nPolitical Ecology\nA short note on how this idea connects to another piece of writing.\n\n\n\n\nRenewable Energy\nA short note on how this idea connects to another piece of writing.\n\n\n\n\nInstitutions\nA short note on how this idea connects to another piece of writing."
   },
   {
-    "objectID": "journeys/inner-mongolia.html",
-    "href": "journeys/inner-mongolia.html",
-    "title": "When Forests Become Mines",
+    "objectID": "journeys/index.html",
+    "href": "journeys/index.html",
+    "title": "Journeys",
     "section": "",
-    "text": "Illegal mining activities cleared protected forest in Inner Mongolia.\n\n\n\nThis case illustrates how ecological degradation often begins with seemingly localized disturbances but rapidly expands through landscape fragmentation.\n\n\n\nThis investigation changed the way I understood environmental damage.\nIt was no longer simply about forests.\nIt became a question about institutions, incentives, and governance.\n\n\n\nThe first time I realized that environmental damage is rarely ecological alone. …"
+    "text": "Places that reshaped how I see the world.\nSome places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales."
   },
   {
-    "objectID": "journeys/inner-mongolia.html#observation",
-    "href": "journeys/inner-mongolia.html#observation",
-    "title": "When Forests Become Mines",
+    "objectID": "journeys/index.html#journeys",
+    "href": "journeys/index.html#journeys",
+    "title": "Journeys",
     "section": "",
-    "text": "Illegal mining activities cleared protected forest in Inner Mongolia."
-  },
-  {
-    "objectID": "journeys/inner-mongolia.html#scientific-context",
-    "href": "journeys/inner-mongolia.html#scientific-context",
-    "title": "When Forests Become Mines",
-    "section": "",
-    "text": "This case illustrates how ecological degradation often begins with seemingly localized disturbances but rapidly expands through landscape fragmentation."
-  },
-  {
-    "objectID": "journeys/inner-mongolia.html#reflection",
-    "href": "journeys/inner-mongolia.html#reflection",
-    "title": "When Forests Become Mines",
-    "section": "",
-    "text": "This investigation changed the way I understood environmental damage.\nIt was no longer simply about forests.\nIt became a question about institutions, incentives, and governance."
-  },
-  {
-    "objectID": "journeys/inner-mongolia.html#ecology-of-the-mind",
-    "href": "journeys/inner-mongolia.html#ecology-of-the-mind",
-    "title": "When Forests Become Mines",
-    "section": "",
-    "text": "The first time I realized that environmental damage is rarely ecological alone. …"
+    "text": "Places that reshaped how I see the world.\nSome places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales."
   },
   {
     "objectID": "journeys/template.html",
     "href": "journeys/template.html",
-    "title": "Journey Template",
+    "title": "Journey Title",
     "section": "",
-    "text": "Location · Years\n\n\n“A short reflection on how this place changed the way I think.”"
+    "text": "A short sentence describing why this place mattered.\n\n\nInvalid Date ·"
   },
   {
-    "objectID": "journeys/template.html#the-story",
-    "href": "journeys/template.html#the-story",
-    "title": "Journey Template",
-    "section": "The Story",
-    "text": "The Story\n\nBefore I Arrived\nUse this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.\n\n\nWhat I Observed\nDescribe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.\n\n\nWhat Changed\nExplain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.\n\n\nWhat Stayed With Me\nClose with a brief reflection on the lasting idea, question, or method that remained with you after leaving."
+    "objectID": "journeys/template.html#reflection",
+    "href": "journeys/template.html#reflection",
+    "title": "Journey Title",
+    "section": "Reflection",
+    "text": "Reflection\nOne or two paragraphs.\nNot a summary.\nInstead, describe how this place changed the way you think."
   },
   {
-    "objectID": "journeys/template.html#thinking-across-scales",
-    "href": "journeys/template.html#thinking-across-scales",
-    "title": "Journey Template",
-    "section": "Thinking Across Scales",
-    "text": "Thinking Across Scales\nThis is the signature section. Summarize how this place changed your understanding of systems, scale, feedback, or complexity. Keep it clear, concise, and slightly more distilled than the main narrative."
+    "objectID": "journeys/template.html#related-ideas",
+    "href": "journeys/template.html#related-ideas",
+    "title": "Journey Title",
+    "section": "Related Ideas",
+    "text": "Related Ideas\n\nThinking Across Scales\nPolitical Ecology\nEcological Accounting"
   },
   {
-    "objectID": "journeys/template.html#related-essays",
-    "href": "journeys/template.html#related-essays",
-    "title": "Journey Template",
-    "section": "Related Essays",
-    "text": "Related Essays\n\n\n\nEssay One\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Two\nA short note on how this idea connects to another piece of writing.\nRead more →\n\n\n\n\nEssay Three\nA short note on how this idea connects to another piece of writing.\nRead more →"
+    "objectID": "journeys/template.html#related-journeys",
+    "href": "journeys/template.html#related-journeys",
+    "title": "Journey Title",
+    "section": "Related Journeys",
+    "text": "Related Journeys\n\nEverglades\nHainan\nInner Mongolia"
   },
   {
     "objectID": "ways-of-thinking/index.html",
