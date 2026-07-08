@@ -1,0 +1,167 @@
+---
+title: "Spinning Across Scales"
+subtitle: "From F to C to B... and finally, an A."
+date: 2026-07-07
+
+status: Growing
+
+categories:
+  - Body
+  - Culture
+  - Tennis
+  - Ways of Thinking
+---
+
+> *The question was never about cup size. It was about what her body was for.*
+
+I often say that without tennis, I might never have finished my Ph.D.
+
+During my years at the University of Florida, tennis gave me much more than exercise. It gave me a community when I had none. It became my way of surviving the loneliness and pressure of graduate school. Many of those friends remain among my closest friends today.
+
+Perhaps that is why I have always paid attention to stories from the tennis world.
+
+Not only to championships.
+
+But to the lives behind them.
+
+Among all the players I have admired, one story has stayed with me for years.
+
+It was not about winning a Grand Slam.
+
+It was not about extraordinary talent.
+
+It was about a Romanian player who made an unusual decision.
+
+She underwent breast reduction surgery.
+
+Not because of illness.
+
+Not because of appearance.
+
+But because she believed her body was preventing her from becoming the player she wanted to be.
+
+After the first surgery, her ranking climbed from outside the Top 100 into the Top 100.
+
+A year later, she chose a second reduction.
+
+Soon she entered the Top 20.
+
+Eventually, she became World No. 1.
+
+I have no idea whether surgery alone changed her career.
+
+That isn't the point.
+
+The story stayed with me because it quietly asked a question that reaches far beyond tennis.
+
+**What is your body for?**
+
+Growing up, I rarely heard that question.
+
+Instead, I heard another one.
+
+How should a woman look?
+
+For a long time, I thought the answer was obvious.
+
+Slimmer.
+
+Fairer.
+
+More feminine.
+
+More attractive.
+
+The body existed, consciously or unconsciously, to satisfy someone else's expectations.
+
+Years later, I realized that elite sport asks an entirely different question.
+
+Not:
+
+> *How attractive can my body become?*
+
+But:
+
+> *What kind of body allows me to become the person I want to be?*
+
+Those are two completely different optimization problems.
+
+One optimizes appearance.
+
+The other optimizes purpose.
+
+For a brief moment, I thought the conversation around women's bodies had begun to change.
+
+Strength became fashionable.
+
+Women were encouraged to lift weights instead of simply losing weight.
+
+I welcomed it.
+
+Then, almost without anyone noticing, "strength" quietly became another aesthetic standard.
+
+Now the ideal woman was expected to have visible abs.
+
+The body had changed.
+
+The gaze had not.
+
+People were still looking at women.
+
+They were simply looking for different things.
+
+Whenever I hear people celebrating visible strength, I cannot help smiling.
+
+I often joke with my friends:
+
+> **A scientist's cerebral cortex is a scientist's six-pack.**
+
+Not every kind of strength can be photographed.
+
+Some strength is built by asking difficult questions for years.
+
+Some by staying curious when certainty is easier.
+
+Some by changing your mind when the evidence changes.
+
+Those muscles are invisible.
+
+Yet they shape the world far more than the visible ones.
+
+Perhaps this is why that tennis story has never really been about tennis.
+
+Nor has it been about surgery.
+
+It has always been about purpose.
+
+Every society teaches us what to optimize.
+
+Beauty.
+
+Youth.
+
+Productivity.
+
+Strength.
+
+Achievement.
+
+Very few ask a more fundamental question:
+
+> **What kind of life are you trying to build?**
+
+Because once you know the answer,
+
+your body,
+
+your career,
+
+your relationships,
+
+and even your ambitions
+
+begin to reorganize themselves around it.
+
+Perhaps freedom is not the ability to become anything we want.
+
+Perhaps freedom begins when we are finally allowed to choose **what we are optimizing for.**

@@ -11,6 +11,39 @@ format:
     include-after-body:
       - text: <script src="https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js"></script>
       - text: <script src="../assets/js/map.js"></script>
+listing:
+  - id: china-journeys
+    contents:
+      - guizhou.qmd
+      - qinghai.qmd
+      - inner-mongolia.qmd
+      - beijing.qmd
+      - hainan.qmd
+    type: table
+    fields: [title, subtitle, date]
+    sort: [date]
+    sort-ui: false
+    filter-ui: false
+    max-items: 20
+    field-display-names:
+      title: "Journey"
+      subtitle: "Subtitle"
+      date: "Date"
+  - id: us-journeys
+    contents:
+      - california.qmd
+      - everglades.qmd
+      - playa.qmd
+    type: table
+    fields: [title, subtitle, date]
+    sort: [date]
+    sort-ui: false
+    filter-ui: false
+    max-items: 20
+    field-display-names:
+      title: "Journey"
+      subtitle: "Subtitle"
+      date: "Date"
 ---
 
 ::: {.journeys-hero .container}
@@ -35,7 +68,7 @@ Some places taught me ecology. Some taught me systems. Some taught me computatio
 <div class="preview-image" role="img" aria-label="Everglades landscape placeholder"></div>
 <div class="preview-copy">
 <h3>Everglades</h3>
-<p class="preview-meta">Florida, USA · 2008–2012</p>
+<p class="preview-meta">Florida, USA · 2009–2015</p>
 <p>The landscape where I first learned to think across scales, reading water, fire, and time as one system.</p>
 <a class="panel-button" href="everglades.qmd">Read Journey →</a>
 </div>
@@ -44,7 +77,14 @@ Some places taught me ecology. Some taught me systems. Some taught me computatio
 :::
 :::
 
-::: {.section .container .journeys-future}
-<h2>Future Directions</h2>
-<p>This section is intentionally left open for future additions such as timelines, categories, search, filters, and connections between places.</p>
+::: {.section .container}
+## China
+
+::: {#china-journeys}
+:::
+
+## United States
+
+::: {#us-journeys}
+:::
 :::
