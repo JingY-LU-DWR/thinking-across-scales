@@ -1,7 +1,139 @@
 ---
 title: "Writing"
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-banner: false
+    title-block: false
 ---
+
+::: {.landing-page .writing-landing-page}
+::: {.essays-hero .writing-hero}
+::: {.container .py-5}
+::: {.row .align-items-end}
+::: {.col-lg-8}
+
+::: {.essays-kicker}
+Writing Across Boundaries
+:::
 
 # Writing
 
-Coming soon...
+::: {.essays-tagline}
+Where research becomes conversation, and observation becomes language.
+:::
+
+:::
+
+::: {.col-lg-4}
+
+::: {.writing-hero-intro}
+A curated collection of public essays, talks, reflections, and field-shaped writing—made to travel between science, leadership, and everyday life.
+:::
+
+:::
+:::
+:::
+:::
+
+::: {.writing-featured .py-5 .py-lg-6}
+::: {.container}
+::: {.row .align-items-end .mb-4}
+::: {.col-lg-8}
+
+::: {.essays-section-label}
+Featured Writing
+:::
+
+## A public reflection in five movements. { .h1 .mb-0 }
+
+:::
+:::
+
+::: {.writing-featured-panel}
+::: {.writing-featured-main}
+
+::: {.writing-feature-meta}
+Leadership · Reflection · Public Speaking
+:::
+
+### The Five Elements of Leadership
+
+::: {.writing-feature-subtitle}
+A graduation address for the California Department of Water Resources Emerging Leaders Cohort
+:::
+
+:::
+
+::: {.writing-feature-side}
+
+::: {.writing-feature-abstract}
+Using the Five Elements—Metal, Water, Fire, Earth, and Wood—as a guiding metaphor, this essay reflects on leadership as something forged through pressure, sustained by trust, and measured by the conditions it creates for others to grow.
+:::
+
+[Read →](./five-elements-of-leadership.qmd){.essay-card-link}
+
+:::
+:::
+:::
+:::
+
+::: {.writing-recent .py-5 .py-lg-6}
+::: {.container}
+::: {.row .align-items-end .mb-4}
+::: {.col-lg-8}
+
+::: {.essays-section-label}
+Recent Writings
+:::
+
+## Public work, collected over time. { .h2 .mb-0 }
+
+:::
+:::
+
+::: {.writing-recent-list}
+
+::: {.writing-recent-item}
+::: {.writing-recent-date}
+Date forthcoming
+:::
+
+::: {.writing-recent-copy}
+### [The Five Elements of Leadership](./five-elements-of-leadership.qmd)
+
+A short public address on trust, steadiness, purpose, and growth in leadership.
+:::
+:::
+
+:::
+:::
+:::
+
+::: {.writing-topics-shell .py-5}
+::: {.container}
+::: {.row .align-items-end .mb-4}
+::: {.col-lg-8}
+
+::: {.essays-section-label}
+Topics
+:::
+
+## Themes that keep returning. { .h3 .mb-0 }
+
+:::
+:::
+
+::: {.writing-topics}
+<span class="writing-topic">Leadership</span>
+<span class="writing-topic">Ecology</span>
+<span class="writing-topic">Data</span>
+<span class="writing-topic">Landscape</span>
+<span class="writing-topic">Ways of Thinking</span>
+<span class="writing-topic">Public Speaking</span>
+:::
+:::
+:::
+:::
+

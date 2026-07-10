@@ -1,17 +1,171 @@
 ---
-title: "Ways of Thinking"
+title: "Essays"
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-banner: false
+    title-block: false
 ---
 
+::: {.landing-page .essays-landing-page}
+::: {.essays-hero}
+::: {.container .py-5}
+::: {.row .align-items-end}
+::: {.col-lg-8}
 
-# Ways of Thinking
+::: {.essays-kicker}
+Thinking Across Scales
+:::
 
-An evolving collection of ideas behind **The Ecology of the Mind**.
+# Essays
 
-## Essays
+::: {.essays-tagline}
+Ideas that emerged from journeys, research, and life.
+:::
 
-- [Thinking Across Scales](thinking-across-scales.qmd)
-- [Seeing Across Scales](seeing-across-scales.qmd)
-- [Spinning Across Scales](spinning-across-scales.qmd)
-- Ecological Accounting *(coming soon)*
-- Political Ecology *(coming soon)*
-- The Ecology of Ideas *(coming soon)*
+:::
+:::
+:::
+:::
+
+::: {.essays-intro .py-5 .py-lg-6}
+::: {.container}
+::: {.row .g-5 .align-items-center}
+::: {.col-lg-7}
+
+::: {.essays-lead}
+The landscapes taught me to observe.  
+The essays taught me to connect.
+:::
+
+::: {.essays-body}
+What begins in a place often travels into a system. These essays trace that movement—from field observation to ecological thinking, from one scale to another, and from one question to a wider pattern.
+:::
+
+:::
+
+::: {.col-lg-5}
+::: {.essays-diagram aria-hidden="true"}
+::: {.essays-diagram-core}
+:::
+::: {.essays-diagram-ring .ring-one}
+:::
+::: {.essays-diagram-ring .ring-two}
+:::
+::: {.essays-diagram-ring .ring-three}
+:::
+::: {.essays-diagram-connector .connector-a}
+:::
+::: {.essays-diagram-connector .connector-b}
+:::
+:::
+:::
+:::
+:::
+
+::: {.essays-featured .py-5 .py-lg-6}
+::: {.container}
+::: {.row .align-items-end .mb-4}
+::: {.col-lg-8}
+
+::: {.essays-section-label}
+Featured Essays
+:::
+
+## Recent notes from the field { .h1 .mb-0 }
+
+:::
+:::
+
+::: {.essays-editorial-grid}
+
+::: {.essay-feature-main}
+::: {.essay-feature .essay-feature-primary}
+::: {.essay-feature-image .image-one}
+:::
+::: {.essay-feature-copy}
+
+::: {.essay-card-category}
+Systems
+:::
+
+### Thinking Across Scales
+
+How attention shifts when a landscape is read as a living network of relations rather than a fixed backdrop.
+
+[Read Essay →](thinking-across-scales.qmd){.essay-card-link}
+
+:::
+:::
+:::
+
+::: {.essay-feature-rail}
+
+::: {.essay-feature .essay-feature-secondary}
+::: {.essay-feature-image .image-two}
+:::
+::: {.essay-feature-copy}
+
+::: {.essay-card-category}
+Observation
+:::
+
+### Seeing Across Scales
+
+A reflection on perception, pattern, and the way landscapes reveal structure over time.
+
+[Read Essay →](seeing-across-scales.qmd){.essay-card-link}
+
+:::
+:::
+
+::: {.essay-feature .essay-feature-tertiary}
+::: {.essay-feature-copy}
+
+::: {.essay-card-category}
+Movement
+:::
+
+### Spinning Across Scales
+
+An exploration of movement, recursion, and the forms of thinking that loop back on themselves.
+
+[Read Essay →](spinning-across-scales.qmd){.essay-card-link}
+
+:::
+:::
+
+::: {.essay-feature-rule}
+:::
+
+::: {.essay-feature-image .image-three}
+:::
+
+
+:::
+:::
+:::
+
+::: {.essays-footer .py-5}
+::: {.container}
+::: {.essays-footer-callout}
+
+::: {.essays-footer-illustration aria-hidden="true"}
+:::
+
+:::
+::: {.essays-section-label}
+Still growing
+:::
+
+## More essays are growing. { .h3 .mb-3 }
+
+::: {.mb-0}
+Each new piece extends the work of looking closely, connecting widely, and following the patterns that emerge.
+:::
+:::
+:::
+:::
+:::
+:::

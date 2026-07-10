@@ -1,4 +1,4 @@
-# The Ecology of the Mind
+# Thinking Across Scales
 
 A living digital garden exploring how environments shape the evolution of human thought.
 

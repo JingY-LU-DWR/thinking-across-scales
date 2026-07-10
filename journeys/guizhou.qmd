@@ -1,22 +1,72 @@
 ---
-title: "The Fall of a Tulip Tree"
-subtitle: "Guizhou Province, Summer 2017"
-date: 2017-05-17
-status: Growing
-categories:
-  - Journey
-  - Political Ecology
-  - Renewable Energy
-  - Guizhou
+title: "Fall of A Tulip Trees"
+subtitle: ""
+date: "Summer 2017"
+
+# ----------------------------
+# Metadata
+# ----------------------------
+
+location: "Guizhou Province"
+country: "China"
+coordinates:
+  latitude:
+  longitude:
+
+elevation: "4000m"
+ecosystem:
+
+fieldwork:
+institution: "Chinese Academy of Environmental Planning"
+role: "Field Investigator"
+
+themes: [Natural Resources Damage Assessment]
+
+related-essays: []
+
+related-journeys: []
+
+hero-image:
+
 format:
   html:
-    page-layout: article
+    page-layout: full
     toc: false
+    title-block-banner: false
 ---
 
-The Fall of a Tulip Tree
+::: {.journey-page}
 
-Guizhou, China · May 2017
+# Hero
+
+::: {.journey-hero}
+
+![](`r hero-image`){.journey-hero-image}
+
+# {{< meta title >}}
+
+::: {.journey-subtitle}
+{{< meta subtitle >}}
+:::
+
+::: {.journey-meta}
+
+**{{< meta date >}}**
+
+{{< meta location >}}
+
+{{< meta ecosystem >}}
+
+:::
+
+:::
+
+---
+
+# Field Story
+
+::: {.journey-story}
+
 
 It had survived the ice ages of the Quaternary, only to fall beneath the steel teeth of an excavator.
 
@@ -61,3 +111,96 @@ Then the answer came quietly.
 By the end of the day, work had already consumed everything.
 
 Survival leaves little room for poetry.
+
+:::
+
+---
+
+# Field Journal
+
+::: {.journey-journal}
+
+| | |
+|---|---|
+| **Location** | |
+| **Date** | |
+| **Elevation** | |
+| **Ecosystem** | |
+| **Institution** | |
+| **Role** | |
+
+:::
+
+---
+
+# Photo Essay
+
+::: {.journey-gallery}
+
+![](../assets/images/journeys/placeholder.jpg)
+
+*Landscape*
+
+---
+
+![](../assets/images/journeys/placeholder.jpg)
+
+*Scientist at Work*
+
+---
+
+![](../assets/images/journeys/placeholder.jpg)
+
+*Field Notes*
+
+---
+
+![](../assets/images/journeys/placeholder.jpg)
+
+*Ecological Detail*
+
+:::
+
+---
+
+# Reflection
+
+This is not a summary.
+
+Answer only one question:
+
+**How did this place change the way I think?**
+
+---
+
+# Connections
+
+## Related Essays
+
+- Thinking Across Scales
+
+- Seeing Across Scales
+
+---
+
+## Related Places
+
+- Inner Mongolia
+
+- Everglades
+
+- California
+
+---
+
+## Themes
+
+- Political Ecology
+
+- Landscape Ecology
+
+- Ecological Accounting
+
+:::
+
+

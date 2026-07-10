@@ -1,90 +1,162 @@
 ---
-title: "Journeys"
+title: "Atlas"
 format:
   html:
-    css:
-      - ../assets/css/custom.css
-      - ../assets/css/map.css
-    page-layout: full
-    toc: false
-    title-block-banner: false
+    css: ../assets/css/map.css
     include-after-body:
-      - text: <script src="https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js"></script>
       - text: <script src="../assets/js/map.js"></script>
-listing:
-  - id: china-journeys
-    contents:
-      - guizhou.qmd
-      - qinghai.qmd
-      - inner-mongolia.qmd
-      - beijing.qmd
-      - hainan.qmd
-    type: table
-    fields: [title, subtitle, date]
-    sort: [date]
-    sort-ui: false
-    filter-ui: false
-    max-items: 20
-    field-display-names:
-      title: "Journey"
-      subtitle: "Subtitle"
-      date: "Date"
-  - id: us-journeys
-    contents:
-      - california.qmd
-      - everglades.qmd
-      - playa.qmd
-    type: table
-    fields: [title, subtitle, date]
-    sort: [date]
-    sort-ui: false
-    filter-ui: false
-    max-items: 20
-    field-display-names:
-      title: "Journey"
-      subtitle: "Subtitle"
-      date: "Date"
 ---
 
-::: {.journeys-hero .container}
-## Journeys
+::: {.landing-page .atlas-landing-page}
 
-**Places that reshaped how I see the world.**
+::: {.essays-hero .atlas-hero}
+::: {.container .py-5}
+::: {.row .align-items-end}
+::: {.col-lg-8}
 
-Some places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales.
+::: {.essays-kicker}
+Thinking Across Scales
 :::
 
-::: {.section .container .journeys-map-shell}
-::: {.row .gx-4 .gy-4 .align-items-start}
-::: {.col-12 .col-lg-7}
-::: {.map-card}
-<div id="journey-map" aria-label="Interactive map of journey locations"></div>
-<p id="map-status" class="map-status">Loading locations…</p>
+# Atlas
+
+::: {.essays-tagline}
+Places that shaped the way I think.
+:::
+
+:::
+
+::: {.col-lg-4}
+
+::: {.atlas-hero-intro}
+A growing atlas of landscapes, field observations, and journeys that changed the way I see ecological systems.
+:::
+
+:::
+:::
 :::
 :::
 
-::: {.col-12 .col-lg-5}
-::: {.preview-card}
-<div class="preview-image" role="img" aria-label="Everglades landscape placeholder"></div>
-<div class="preview-copy">
-<h3>Everglades</h3>
-<p class="preview-meta">Florida, USA · 2009–2015</p>
-<p>The landscape where I first learned to think across scales, reading water, fire, and time as one system.</p>
-<a class="panel-button" href="everglades.qmd">Read Journey →</a>
+::: {.atlas-section .atlas-section-space .py-5 .py-lg-6}
+::: {.container}
+::: {.row .align-items-end .mb-4}
+::: {.col-lg-7}
+
+::: {.essays-section-label}
+Thinking Through Space
+:::
+
+## Browse the atlas as a living map. {#atlas-space-heading .mb-0}
+
+:::
+
+::: {.col-lg-5}
+
+::: {.atlas-section-intro .mb-0}
+Geography is not just backdrop here. Each landscape opened a different way of seeing pattern, scale, and ecological relation.
+:::
+
+:::
+:::
+
+::: {.atlas-map-shell}
+<div id="atlas-map" class="atlas-map" role="application" aria-label="Interactive world map of atlas journeys">
+  <svg class="atlas-map-basemap" viewBox="0 0 1200 620" aria-hidden="true" preserveAspectRatio="xMidYMid meet">
+    <rect x="0" y="0" width="1200" height="620" rx="28" ry="28"></rect>
+    <g class="atlas-map-continents">
+      <path d="M85 177C118 143 179 135 228 149C267 160 294 181 319 215C332 232 353 247 381 266C406 282 413 305 399 322C380 344 337 347 308 360C279 373 272 395 248 408C223 420 177 419 149 400C123 383 112 349 88 334C56 314 41 290 46 257C50 224 63 197 85 177Z"></path>
+      <path d="M327 385C346 382 370 386 385 397C398 406 400 423 389 436C377 451 350 456 334 446C317 434 312 402 327 385Z"></path>
+      <path d="M541 155C589 128 666 126 718 138C769 150 818 170 863 188C913 209 955 234 985 272C1001 292 998 318 972 329C938 344 902 338 874 354C848 369 823 401 788 412C749 425 697 418 662 398C625 376 613 347 579 332C549 320 516 305 503 275C489 245 501 184 541 155Z"></path>
+      <path d="M651 339C686 323 735 326 768 343C794 356 803 386 792 424C782 461 757 510 720 531C692 546 659 547 632 530C600 510 588 476 591 432C594 394 612 360 651 339Z"></path>
+      <path d="M929 444C956 432 995 434 1024 446C1051 457 1071 482 1072 505C1073 523 1053 538 1029 539C995 540 950 527 929 505C911 486 909 454 929 444Z"></path>
+    </g>
+    <g class="atlas-map-routes">
+      <path d="M189 290C306 250 432 231 533 250C623 267 710 317 789 314C870 311 933 251 1026 240"></path>
+      <path d="M213 321C358 388 514 424 656 420C749 417 836 402 964 469"></path>
+    </g>
+  </svg>
+
+  <div id="atlas-map-markers" class="atlas-map-markers"></div>
+
+  <aside id="atlas-map-card" class="atlas-map-card" aria-live="polite"></aside>
 </div>
+
+::: {.atlas-map-caption}
+Hover across the markers to preview a place. Click to read the full journey.
+:::
+
+:::
+:::
+:::
+
+::: {.atlas-section .atlas-section-time .py-5 .py-lg-6}
+::: {.container}
+::: {.atlas-timeline-shell}
+::: {.row .align-items-end .mb-4}
+::: {.col-lg-7}
+
+::: {.essays-section-label}
+Thinking Through Time
+:::
+
+## Follow how the thinking evolved. {#atlas-time-heading .mb-0}
+
+:::
+
+::: {.col-lg-5}
+
+::: {.atlas-section-intro .mb-0}
+This timeline is another route through the atlas: a way of tracing how one place led to another, and how observation slowly became method.
+:::
+
+:::
+:::
+
+::: {.atlas-timeline-header}
+
+::: {.atlas-timeline-instruction .mb-0}
+Drag across the years to move through the atlas.
+:::
+
+<p id="atlas-timeline-year" class="atlas-timeline-year mb-0">2009</p>
+:::
+
+::: {.atlas-timeline-rail}
+<div id="atlas-timeline-stops" class="atlas-timeline-stops"></div>
+<input id="atlas-timeline-slider" class="atlas-timeline-slider" type="range" min="0" max="5" step="1" value="0" aria-label="Atlas timeline year selector" />
+:::
+
+<article id="atlas-timeline-card" class="atlas-timeline-card" aria-live="polite"></article>
+:::
+:::
+:::
+
+::: {.atlas-section .atlas-section-featured .py-5 .py-lg-6}
+::: {.container}
+::: {.atlas-feature-shell}
+<div class="atlas-feature-photo atlas-photo atlas-photo--everglades" role="img" aria-label="Editorial landscape study of the Everglades"></div>
+
+::: {.atlas-feature-copy}
+
+::: {.essays-section-label}
+Editor's Pick
+:::
+
+## Where Scale Became Visible {#atlas-featured-heading}
+
+::: {.atlas-feature-meta}
+Everglades · Florida, United States · 2009
+:::
+
+::: {.atlas-feature-excerpt}
+In the Everglades, water, fire, and slow ecological time stopped feeling like separate subjects. They became a single system—one that taught me to read landscapes not as scenery, but as layered processes moving at different speeds.
+:::
+
+[Read Story →](./everglades.html){.essay-card-link}
+
 :::
 :::
 :::
 :::
 
-::: {.section .container}
-## China
-
-::: {#china-journeys}
-:::
-
-## United States
-
-::: {#us-journeys}
-:::
 :::

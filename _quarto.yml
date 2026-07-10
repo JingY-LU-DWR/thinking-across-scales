@@ -1,5 +1,13 @@
 project:
   type: website
+
+  render:
+    - index.qmd
+    - about.qmd
+    - journeys/
+    - ways-of-thinking/
+    - writing/
+
 resources:
   - data/
 
@@ -11,14 +19,20 @@ website:
       - text: Home
         href: index.qmd
 
-      - text: Ways of Thinking
-        href: ways-of-thinking/index.qmd
-
-      - text: Journeys
+      - text: Atlas
         href: journeys/index.qmd
+
+      - text: Essays
+        href: ways-of-thinking/index.qmd
 
       - text: Writing
         href: writing/index.qmd
 
       - text: About
         href: about.qmd
+format:
+  html:
+    css: assets/css/custom.css
+    page-layout: full
+    toc: false
+    title-block-banner: false

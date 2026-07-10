@@ -5,16 +5,13 @@ date: 2026-07-07
 
 format:
   html:
-    toc: false
     page-layout: article
-
+ 
 categories:
   - Philosophy
   - Ecology
   - Systems Thinking
 ---
-# Thinking Across Scales
-
 > Every landscape is also a way of thinking.
 
 We often explain problems at the scale of individuals, when their roots lie in larger systems. We debate policies at the national level, yet rarely ask how they are lived by a single person. Thinking Across Scales is the practice of moving continuously between these perspectives—between individuals and institutions, places and planets, moments and millennia. Ecological problems are fundamentally problems of scale. I have come to believe that life is, too.

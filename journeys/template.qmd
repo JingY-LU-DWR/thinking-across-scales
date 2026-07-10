@@ -1,38 +1,47 @@
 ---
-title: "Journey Title"
-subtitle: "A short sentence describing why this place mattered."
-date: YYYY-MM-DD
+title: ""
+subtitle: ""
+date:
 
-location: ""
+# ----------------------------
+# Metadata
+# ----------------------------
+
+location:
+country:
 coordinates:
   latitude:
   longitude:
 
-themes:
-  - ""
+elevation:
+ecosystem:
 
-related-projects:
-  - ""
+fieldwork:
+institution:
+role:
 
-related-essays:
-  - ""
+themes: []
 
-related-journeys:
-  - ""
+related-essays: []
 
-hero-image: ""
+related-journeys: []
+
+hero-image:
 
 format:
   html:
-    css: ../assets/css/custom.css
     page-layout: full
     toc: false
     title-block-banner: false
 ---
 
+::: {.journey-page}
+
+# Hero
+
 ::: {.journey-hero}
 
-![](../assets/images/journeys/placeholder.jpg){.journey-hero-image}
+![](`r hero-image`){.journey-hero-image}
 
 # {{< meta title >}}
 
@@ -41,65 +50,126 @@ format:
 :::
 
 ::: {.journey-meta}
-**{{< meta date >}} · {{< meta location >}}**
+
+**{{< meta date >}}**
+
+{{< meta location >}}
+
+{{< meta ecosystem >}}
+
 :::
 
 :::
 
 ---
+
+# Field Story
 
 ::: {.journey-story}
 
-Your story begins here.
+Begin with a story.
 
-Write naturally.
+Not a travel diary.
 
-Do not divide the story into sections such as *Before I Arrived* or *What I Observed*.
+Not a report.
 
-Let the narrative unfold the way you experienced it.
+Describe the moment when this landscape began changing the way you think.
 
-Images can appear naturally throughout the story whenever they help the reader enter the place.
+Write scenes.
+
+Write people.
+
+Write observations.
+
+Let the larger ideas emerge naturally.
 
 :::
 
 ---
+
+# Field Journal
+
+::: {.journey-journal}
+
+| | |
+|---|---|
+| **Location** | |
+| **Date** | |
+| **Elevation** | |
+| **Ecosystem** | |
+| **Institution** | |
+| **Role** | |
+
+:::
+
+---
+
+# Photo Essay
 
 ::: {.journey-gallery}
 
-<!-- Optional -->
+![](../assets/images/journeys/placeholder.jpg)
+
+*Landscape*
+
+---
 
 ![](../assets/images/journeys/placeholder.jpg)
 
-![](../assets/images/journeys/placeholder.jpg)
+*Scientist at Work*
+
+---
 
 ![](../assets/images/journeys/placeholder.jpg)
+
+*Field Notes*
+
+---
+
+![](../assets/images/journeys/placeholder.jpg)
+
+*Ecological Detail*
 
 :::
 
 ---
 
-## Reflection
+# Reflection
 
-One or two paragraphs.
+This is not a summary.
 
-Not a summary.
+Answer only one question:
 
-Instead, describe how this place changed the way you think.
+**How did this place change the way I think?**
 
 ---
 
-## Related Ideas
+# Connections
+
+## Related Essays
 
 - Thinking Across Scales
-- Political Ecology
-- Ecological Accounting
+
+- Seeing Across Scales
 
 ---
 
-## Related Journeys
+## Related Places
 
-- Everglades
-- Hainan
 - Inner Mongolia
 
+- Everglades
+
+- California
+
 ---
+
+## Themes
+
+- Political Ecology
+
+- Landscape Ecology
+
+- Ecological Accounting
+
+:::
