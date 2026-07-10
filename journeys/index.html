@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Journeys – Thinking Across Scales</title>
+<title>Atlas – Thinking Across Scales</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -72,93 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-china-journeys .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-china-journeys'] = new List('listing-china-journeys', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-us-journeys .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-us-journeys'] = new List('listing-us-journeys', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../assets/css/custom.css">
 <link rel="stylesheet" href="../assets/css/map.css">
@@ -186,12 +98,12 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../ways-of-thinking/index.html"> 
-<span class="menu-text">Ways of Thinking</span></a>
+    <a class="nav-link active" href="../journeys/index.html" aria-current="page"> 
+<span class="menu-text">Atlas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../journeys/index.html" aria-current="page"> 
-<span class="menu-text">Journeys</span></a>
+    <a class="nav-link" href="../ways-of-thinking/index.html"> 
+<span class="menu-text">Essays</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../writing/index.html"> 
@@ -214,11 +126,11 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Journeys</h1>
+<h1 class="title">Atlas</h1>
 </div>
 
 
@@ -235,207 +147,123 @@ window.Quarto = {
 </header>
 
 
-<section id="journeys" class="level2 journeys-hero container">
-<h2 class="anchored" data-anchor-id="journeys">Journeys</h2>
-<p><strong>Places that reshaped how I see the world.</strong></p>
-<p>Some places taught me ecology. Some taught me systems. Some taught me computation. Some revealed entirely new ways of seeing. Together they became the foundation of Thinking Across Scales.</p>
+<div class="landing-page atlas-landing-page page-columns page-full">
+<div class="essays-hero atlas-hero">
+<div class="container py-5">
+<div class="row align-items-end">
+<div class="col-lg-8">
+<div class="essays-kicker">
+<p>Thinking Across Scales</p>
+</div>
+<section id="atlas" class="level1">
+<h1>Atlas</h1>
+<div class="essays-tagline">
+<p>Places that shaped the way I think.</p>
+</div>
 </section>
-<section class="container journeys-map-shell">
-<div class="row gx-4 gy-4 align-items-start">
-<div class="col-12 col-lg-7">
-<div class="map-card">
-<div id="journey-map" aria-label="Interactive map of journey locations">
+</div>
+<div class="col-lg-4">
+<div class="atlas-hero-intro">
+<p>A growing atlas of landscapes, field observations, and journeys that changed the way I see ecological systems.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="atlas-section atlas-section-space py-5 py-lg-6 page-columns page-full">
+<div class="container page-columns page-full">
+<div class="row align-items-end mb-4">
+<div class="col-lg-7">
+<div class="essays-section-label">
+<p>Thinking Through Space</p>
+</div>
+<section id="atlas-space-heading" class="level2 mb-0">
+<h2 class="mb-0 anchored" data-anchor-id="atlas-space-heading">Browse the atlas as a living map.</h2>
+</section>
+</div>
+<div class="col-lg-5">
+<div class="atlas-section-intro mb-0">
+<p>Geography is not just backdrop here. Each landscape opened a different way of seeing pattern, scale, and ecological relation.</p>
+</div>
+</div>
+</div>
+<div class="atlas-map-shell page-columns page-full">
+<div id="atlas-map" class="atlas-map page-columns page-full" role="application" aria-label="Interactive world map of atlas journeys">
+<p><svg class="atlas-map-basemap" viewbox="0 0 1200 620" aria-hidden="true" preserveaspectratio="xMidYMid meet"> <rect x="0" y="0" width="1200" height="620" rx="28" ry="28"></rect> <g class="atlas-map-continents"> <path d="M85 177C118 143 179 135 228 149C267 160 294 181 319 215C332 232 353 247 381 266C406 282 413 305 399 322C380 344 337 347 308 360C279 373 272 395 248 408C223 420 177 419 149 400C123 383 112 349 88 334C56 314 41 290 46 257C50 224 63 197 85 177Z"></path> <path d="M327 385C346 382 370 386 385 397C398 406 400 423 389 436C377 451 350 456 334 446C317 434 312 402 327 385Z"></path> <path d="M541 155C589 128 666 126 718 138C769 150 818 170 863 188C913 209 955 234 985 272C1001 292 998 318 972 329C938 344 902 338 874 354C848 369 823 401 788 412C749 425 697 418 662 398C625 376 613 347 579 332C549 320 516 305 503 275C489 245 501 184 541 155Z"></path> <path d="M651 339C686 323 735 326 768 343C794 356 803 386 792 424C782 461 757 510 720 531C692 546 659 547 632 530C600 510 588 476 591 432C594 394 612 360 651 339Z"></path> <path d="M929 444C956 432 995 434 1024 446C1051 457 1071 482 1072 505C1073 523 1053 538 1029 539C995 540 950 527 929 505C911 486 909 454 929 444Z"></path> </g> <g class="atlas-map-routes"> <path d="M189 290C306 250 432 231 533 250C623 267 710 317 789 314C870 311 933 251 1026 240"></path> <path d="M213 321C358 388 514 424 656 420C749 417 836 402 964 469"></path> </g> </svg></p>
+<div id="atlas-map-markers" class="atlas-map-markers">
 
 </div>
-<p id="map-status" class="map-status">
-Loading locations…
+<aside id="atlas-map-card" class="atlas-map-card" aria-live="polite">
+</aside>
+</div>
+<div class="atlas-map-caption">
+<p>Hover across the markers to preview a place. Click to read the full journey.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="atlas-section atlas-section-time py-5 py-lg-6">
+<div class="container">
+<div class="atlas-timeline-shell">
+<div class="row align-items-end mb-4">
+<div class="col-lg-7">
+<div class="essays-section-label">
+<p>Thinking Through Time</p>
+</div>
+<section id="atlas-time-heading" class="level2 mb-0">
+<h2 class="mb-0 anchored" data-anchor-id="atlas-time-heading">Follow how the thinking evolved.</h2>
+</section>
+</div>
+<div class="col-lg-5">
+<div class="atlas-section-intro mb-0">
+<p>This timeline is another route through the atlas: a way of tracing how one place led to another, and how observation slowly became method.</p>
+</div>
+</div>
+</div>
+<div class="atlas-timeline-header">
+<div class="atlas-timeline-instruction mb-0">
+<p>Drag across the years to move through the atlas.</p>
+</div>
+<p id="atlas-timeline-year" class="atlas-timeline-year mb-0">
+2009
 </p>
 </div>
-</div>
-<div class="col-12 col-lg-5">
-<div class="preview-card">
-<div class="preview-image" role="img" aria-label="Everglades landscape placeholder">
+<div class="atlas-timeline-rail">
+<div id="atlas-timeline-stops" class="atlas-timeline-stops">
 
 </div>
-<div class="preview-copy">
-<h3 class="anchored">
-Everglades
-</h3>
-<p class="preview-meta">
-Florida, USA · 2009–2015
-</p>
-<p>
-The landscape where I first learned to think across scales, reading water, fire, and time as one system.
-</p>
-<p><a class="panel-button" href="../journeys/everglades.html">Read Journey →</a></p>
+<p><input id="atlas-timeline-slider" class="atlas-timeline-slider" type="range" min="0" max="5" step="1" value="0" aria-label="Atlas timeline year selector"></p>
+</div>
+<article id="atlas-timeline-card" class="atlas-timeline-card" aria-live="polite">
+</article>
 </div>
 </div>
 </div>
+<div class="atlas-section atlas-section-featured py-5 py-lg-6">
+<div class="container">
+<div class="atlas-feature-shell">
+<div class="atlas-feature-photo atlas-photo atlas-photo--everglades" role="img" aria-label="Editorial landscape study of the Everglades">
+
 </div>
+<div class="atlas-feature-copy">
+<div class="essays-section-label">
+<p>Editor’s Pick</p>
+</div>
+<section id="atlas-featured-heading" class="level2">
+<h2 class="anchored" data-anchor-id="atlas-featured-heading">Where Scale Became Visible</h2>
+<div class="atlas-feature-meta">
+<p>Everglades · Florida, United States · 2009</p>
+</div>
+<div class="atlas-feature-excerpt">
+<p>In the Everglades, water, fire, and slow ecological time stopped feeling like separate subjects. They became a single system—one that taught me to read landscapes not as scenery, but as layered processes moving at different speeds.</p>
+</div>
+<p><a href="./everglades.html" class="essay-card-link">Read Story →</a></p>
 </section>
-<section class="container">
-<section id="china" class="level2">
-<h2 class="anchored" data-anchor-id="china">China</h2>
-<div id="listing-china-journeys" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-Journey
-</th>
-
-<th>
-Subtitle
-</th>
-
-<th>
-Date
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-categories="Sm91cm5leSUyQ1BvbGl0aWNhbCUyMEVjb2xvZ3klMkNSZW5ld2FibGUlMjBFbmVyZ3klMkNHdWl6aG91" data-listing-date-sort="1495004400000" data-listing-file-modified-sort="1783468015182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="290" data-listing-title-sort="The Fall of a Tulip Tree" data-listing-filename-sort="guizhou.qmd">
-<td>
-<a href="../journeys/guizhou.html" class="title listing-title">The Fall of a Tulip Tree</a>
-</td>
-<td>
-<span class="listing-subtitle">Guizhou Province, Summer 2017</span>
-</td>
-<td>
-<span class="listing-date">May 17, 2017</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-date-sort="1496300400000" data-listing-file-modified-sort="1783468034904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="259" data-listing-title-sort="White Terror of the Qinghai Rhododendrons" data-listing-filename-sort="qinghai.qmd">
-<td>
-<a href="../journeys/qinghai.html" class="title listing-title">White Terror of the Qinghai Rhododendrons</a>
-</td>
-<td>
-<span class="listing-subtitle">Qinghai Autonomous Region · Summer 2017</span>
-</td>
-<td>
-<span class="listing-date">Jun 1, 2017</span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-categories="Sm91cm5leSUyQ1NjaWVudGlmaWMlMjBSZXNwb25zaWJpbGl0eSUyQ0Vudmlyb25tZW50YWwlMjBKdXN0aWNlJTJDSW5uZXIlMjBNb25nb2xpYQ==" data-listing-date-sort="1783407600000" data-listing-file-modified-sort="1783467973768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="483" data-listing-title-sort="The Cost After the Numbers" data-listing-filename-sort="inner-mongolia.qmd">
-<td>
-<a href="../journeys/inner-mongolia.html" class="title listing-title">The Cost After the Numbers</a>
-</td>
-<td>
-<span class="listing-subtitle">Inner Mongolia · Spring 2017</span>
-</td>
-<td>
-<span class="listing-date">Jul 7, 2026</span>
-</td>
-
-</tr>
-
-<tr data-index="3" data-listing-file-modified-sort="1783354022021" data-listing-filename-sort="beijing.qmd">
-<td>
-<a href="../journeys/beijing.html" class="title listing-title">&nbsp;</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="4" data-listing-file-modified-sort="1783354022029" data-listing-filename-sort="hainan.qmd">
-<td>
-<a href="../journeys/hainan.html" class="title listing-title">&nbsp;</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
 </div>
-</section>
-<section id="united-states" class="level2">
-<h2 class="anchored" data-anchor-id="united-states">United States</h2>
-<div id="listing-us-journeys" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-Journey
-</th>
-
-<th>
-Subtitle
-</th>
-
-<th>
-Date
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-file-modified-sort="1783354022021" data-listing-filename-sort="california.qmd">
-<td>
-<a href="../journeys/california.html" class="title listing-title">&nbsp;</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-file-modified-sort="1783473989353" data-listing-reading-time-sort="2" data-listing-word-count-sort="358" data-listing-title-sort="Journey (TBD)" data-listing-filename-sort="everglades.qmd">
-<td>
-<a href="../journeys/everglades.html" class="title listing-title">Journey (TBD)</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-listing-file-modified-sort="1783354022043" data-listing-filename-sort="playa.qmd">
-<td>
-<a href="../journeys/playa.html" class="title listing-title">&nbsp;</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
 </div>
-</section>
-</section>
-
+</div>
+</div>
+</div>
 
 
 
@@ -841,7 +669,6 @@ Date
   });
   </script>
 </div> <!-- /content -->
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js"></script>
 <script src="../assets/js/map.js"></script>
 
 
