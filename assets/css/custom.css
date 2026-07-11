@@ -429,6 +429,12 @@ section {
   max-width: 50ch;
 }
 
+/* Utility: keep contextual body typography but allow full column width */
+.essays-body.context-full-width {
+  max-width: none;
+  width: 100%;
+}
+
 .essays-featured {
   padding: var(--space-3xl) 0;
 }
