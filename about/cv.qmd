@@ -1,0 +1,202 @@
+---
+title: "Becoming an Ecologist"
+subtitle: "An unconventional curriculum vitae."
+format:
+  html:
+    page-layout: article
+    toc: false
+    title-block: false
+---
+
+This is not simply a record of positions held or papers published.
+
+It is the story of how one landscape led to another, how one question became many, and how a career gradually evolved from studying ecosystems to exploring the ecology of the mind.
+
+---
+
+# Where I Learned
+
+## University of Florida
+
+**Ph.D. in Interdisciplinary Ecology (2015)**
+
+Concentration in Geographic Information Systems.
+
+Dissertation:
+
+*Metrics of Pattern Loss and Ecosystem Change in the Ridge and Slough Mosaic of the Everglades*
+
+Advisor:
+
+**Matthew J. Cohen**
+
+Here I learned that landscapes are not collections of objects, but systems of relationships.
+
+---
+
+## Beijing Forestry University
+
+**M.Sc. in Natural Resources Conservation (2009)**
+
+This was where ecology became more than biology.
+It became a way of understanding human society and environmental change.
+
+---
+
+## Southwest Forestry University
+
+**B.Sc. in Environmental Science (2005)**
+
+My first introduction to environmental science and field investigation.
+
+---
+
+# Where I Worked
+
+## California Department of Water Resources
+
+**Senior Environmental Scientist**
+2022–Present
+
+Working at the intersection of land use, water resources, cloud computing, reproducible science, and AI-assisted environmental workflows.
+
+Current interests include
+
+- Environmental Data Infrastructure
+- Reproducible Science
+- Cloud-native Geospatial Computing
+- AI-assisted Scientific Publishing
+
+---
+
+## Michigan State University
+
+**Research Associate**
+2020–2022
+
+Studied land use change, ecosystem functions, and sustainability across the Asian Drylands using cloud computing and Google Earth Engine.
+
+---
+
+## University of Maine
+
+**Research Associate**
+2018–2020
+
+Worked on social-ecological systems, marine spatial planning, and geospatial data integration.
+
+---
+
+## Chinese Academy of Environmental Planning
+
+**Researcher**
+2015–2017
+
+Focused on natural resource damage assessment (NRDA), environmental accounting, and Gross Ecosystem Product (GEP).
+
+---
+
+# What I Study
+
+My work sits at the intersection of several disciplines.
+
+- Landscape Ecology
+- Remote Sensing
+- Environmental Data Science
+- GIScience
+- Systems Thinking
+- Science Communication
+- Artificial Intelligence for Environmental Research
+
+Rather than treating these as separate fields, I see them as different scales of understanding the same world.
+
+---
+
+# Ideas in Print
+
+Selected publications that represent turning points in my thinking.
+
+### Remote Sensing of Environment (2020)
+
+Remote detection of ecosystem degradation in the Everglades ridge–slough landscape.
+
+---
+
+### Landscape Ecology (2015)
+
+Linking landscape pattern to hydrological processes.
+
+---
+
+### Applied Geography (2021)
+
+Spatial patterns of socio-demographic change in coastal Maine.
+
+---
+
+### Remote Sensing (2022)
+
+Land use hotspots across Kazakhstan and Mongolia.
+
+---
+
+### Scientific Reports (2024)
+
+Disproportionate contributions of land cover and changes to ecosystem functions.
+
+---
+
+*A complete publication list is available on Google Scholar.*
+
+→ **Google Scholar**
+
+---
+
+# Beyond Research
+
+Science is also about building communities.
+
+Along the way I have been fortunate to contribute through
+
+- mentoring students
+- teaching GIS
+- organizing scientific workshops
+- reviewing manuscripts
+- building open scientific tools
+
+I believe that knowledge grows most meaningfully when it is shared.
+
+---
+
+# How I Work
+
+Technology is part of my scientific language.
+
+Current tools include
+
+- R
+- Google Earth Engine
+- JavaScript
+- PostgreSQL/PostGIS
+- Quarto
+- Git/GitHub
+- Cloud Computing
+- AI-assisted Research
+
+I am increasingly interested in how modern software practices can reshape environmental science.
+
+---
+
+# Looking Forward
+
+Thinking Across Scales is perhaps my most ambitious project.
+
+It brings together years of field ecology, computational science, writing, photography, and interdisciplinary thinking into a single evolving body of work.
+
+Rather than treating research, art, and public communication as separate pursuits, I hope this project demonstrates that they are simply different ways of observing the same world.
+
+---
+
+## Download
+
+→ Curriculum Vitae (PDF)

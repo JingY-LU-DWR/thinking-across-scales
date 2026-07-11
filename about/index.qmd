@@ -1,0 +1,245 @@
+---
+title: "About"
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-banner: false
+    title-block: false
+---
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.landing-page .essays-landing-page}
+:::::::::: essays-hero
+::::::::: {.container .py-5}
+:::::::: {.row .align-items-end}
+::::: col-lg-8
+::: essays-kicker
+Preface
+:::
+
+# About
+
+::: essays-tagline
+The story behind *Thinking Across Scales*.
+:::
+:::::
+
+:::: col-lg-4
+::: writing-hero-intro
+This website did not begin as a website. It began as a need to gather ideas that had long existed across landscapes, notebooks, code, and unfinished drafts.
+:::
+::::
+::::::::
+:::::::::
+::::::::::
+
+::::::::::: {.essays-intro .py-5 .py-lg-6}
+:::::::::: container
+::::::::: {.row .g-5 .align-items-start}
+::::: col-lg-8
+::: essays-section-label
+The Origin Story
+:::
+
+::: {.essays-body .context-full-width}
+**A residency application became the catalyst.**
+
+In the summer of 2026, while preparing an application for an interdisciplinary art and science residency, I encountered an unexpected requirement: a portfolio—not of publications, but of ideas.
+
+For years, the work had been dispersed across scientific papers, field notes, conference talks, code experiments, photographs, and fragments of essays. Each piece was real, but none of them could hold the whole.
+
+That application became a turning point. What started as a practical response to one form quickly became a deeper editorial question: **how can landscapes, science, computation, and reflection live in one continuous conversation?**
+
+What began as a portfolio gradually evolved into something much larger.
+:::
+:::::
+
+::::: col-lg-4
+::: {.border-start .ps-3}
+> "Not because I wanted another website, but because I needed a place where ideas from different scales could finally meet."
+:::
+
+::: {.border-start .ps-3 .mt-4}
+> "The residency deadline was immediate. The underlying inquiry had already been alive for years."
+:::
+:::::
+:::::::::
+::::::::::
+:::::::::::
+
+:::: quote-shell
+::: quote-block
+"The implementation took only two weeks. <br>
+"The ideas had been developing for two decades."
+:::
+::::
+
+::::::::::: {.writing-piece .py-5 .py-lg-6}
+:::::::::: container
+::::::::: {.row .g-5 .align-items-start}
+::::: col-lg-8
+::: essays-section-label
+Building the Website
+:::
+
+::: {.essays-body .context-full-width}
+**Not a website project—an experiment in modern scientific publishing.**
+
+The technical build moved quickly because the ecosystem has changed. Instead of a traditional, months-long web build, this project grew through an open, composable workflow:
+
+- **Quarto** for reproducible, publication-ready writing
+- **Markdown** as the primary authoring layer
+- **Git** and **GitHub** for transparent version control
+- **Mapbox** for place-based, spatial storytelling
+- **AI-assisted development** for rapid prototyping and iteration
+- **Cloud-based publishing** for continuous updates
+
+Technology accelerated implementation, but the website's structure emerged from a much longer arc of fieldwork, research, and writing practice. In that sense, the build process itself became part of the research: a live test of how open-source tools can expand scientific communication.
+:::
+:::::
+
+::::: col-lg-4
+::: essays-section-label
+Workflow Notes
+:::
+
+::: writing-topics
+[Open-source workflow]{.writing-topic} [Editorial publishing]{.writing-topic} [Reproducible writing]{.writing-topic} [Computational storytelling]{.writing-topic}
+:::
+:::::
+:::::::::
+::::::::::
+:::::::::::
+
+:::::::::: {.writing-piece .py-5}
+::::::::: container
+:::::::: {.row .g-5 .align-items-start}
+::::: col-lg-8
+::: essays-section-label
+About Me
+:::
+
+::: {.essays-body .context-full-width}
+**Scientist, writer, and systems thinker.**
+
+Jing Yuan is an environmental scientist and writer working at the intersection of ecological research, computational methods, and public communication.
+
+Current position: Environmental scientist and interdisciplinary researcher focused on connecting landscape inquiry with data-driven storytelling.
+
+Research interests include **Landscape Ecology**, **Remote Sensing**, **Environmental Data Science**, and **Science Communication**.
+:::
+:::::
+
+:::: col-lg-4
+::: {.border-start .ps-3}
+The work moves between field observation, quantitative analysis, design, and narrative—always with attention to scale.
+:::
+::::
+::::::::
+:::::::::
+::::::::::
+
+::::::::::::::::: {.writing-piece .py-5}
+:::::::::::::::: container
+:::::::: {.row .g-5 .align-items-start}
+::::: col-lg-8
+::: essays-section-label
+An Intellectual Ecosystem
+:::
+
+::: {.essays-body .context-full-width}
+**No idea grows in isolation.**
+
+Thinking Across Scales is an original synthesis, but it did not emerge in isolation. Like every ecosystem, ideas evolve through relationships—with mentors, books, places, and conversations. This section acknowledges a few of the people and works that continue to shape the way I think.
+:::
+:::::
+
+:::: col-lg-4
+::: {.border-start .ps-3}
+An editorial acknowledgement of relationships that continue to shape the work, rather than a formal bibliography.
+:::
+::::
+::::::::
+
+::::::::: {.row .g-5 .align-items-start}
+::::: col-lg-6
+::: essays-section-label
+People
+:::
+
+::: {.essays-body .context-full-width}
+**Matt Cohen**\
+My advisor in research methodology and scientific thinking. He fundamentally shaped how I formulate questions, approach research, and pursue scholarship.\
+[Learn More →](https://ffgs.ifas.ufl.edu/ecohydrology/){.essay-card-link}
+
+**Qinqin Liu**\
+Interdisciplinary artist. Introduced me to interdisciplinary art and expanded my understanding of how science and art can exist in dialogue.\
+[Learn More →](https://www.drqliu-artscience.com/about){.essay-card-link}
+
+**Daoist Philosophy**\
+A lifelong influence rather than a single person. Reminds me that systems are dynamic, relational, and always becoming rather than fixed.
+:::
+:::::
+
+::::: col-lg-6
+::: essays-section-label
+Books
+:::
+
+::: {.essays-body .context-full-width}
+**Philip Ball**\
+Placeholder for future description.
+
+**C. S. "Buzz" Holling**\
+Placeholder for future description.
+
+:::
+:::::
+:::::::::
+::::::::::::::::
+:::::::::::::::::
+
+::::::::: {.writing-topics-shell .py-5}
+:::::::: container
+::::::: {.row .g-5 .align-items-start}
+::::: col-lg-5
+::: essays-section-label
+[Academic Profile →](cv.qmd)
+:::
+
+::: {.essays-body .context-full-width}
+This section supports credentials; it does not lead the story.
+:::
+:::::
+
+::: col-lg-7
+[→ Curriculum Vitae](./cv.qmd){.essay-card-link}
+
+[→ Google Scholar](https://scholar.google.com/citations?user=Jkgly20AAAAJ&hl=en){.essay-card-link}
+
+[→ ORCID](#){.essay-card-link}
+
+[→ LinkedIn](#){.essay-card-link}
+:::
+:::::::
+::::::::
+:::::::::
+
+:::::::: {.essays-footer .py-5 .py-lg-6}
+::::::: container
+:::::: {.row .g-5}
+::::: col-lg-9
+::: essays-section-label
+The Journey Continues
+:::
+
+::: {.essays-body .context-full-width}
+**An evolving collection, not a finished archive.**
+
+*Thinking Across Scales* continues to grow as a living publication: landscapes, ideas, essays, field notes, maps, and computational tools assembled over time. Each addition is less a "new page" than another movement in an ongoing inquiry—how we observe, interpret, and communicate across scales.
+:::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
