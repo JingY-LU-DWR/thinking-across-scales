@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const timelineStops = document.getElementById('atlas-timeline-stops');
   const timelineYear = document.getElementById('atlas-timeline-year');
   const timelineCard = document.getElementById('atlas-timeline-card');
+  let mapView = null;
 
   if (!mapContainer || !markerLayer || !mapCard || !timelineSlider || !timelineStops || !timelineYear || !timelineCard) {
     return;
@@ -19,13 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
     .replace(/'/g, '&#39;');
 
   const journeyHref = (place) => `./${place.slug}.html`;
-
-  const projectPoint = (longitude, latitude) => {
-    const x = 6 + ((longitude + 180) / 360) * 88;
-    const y = 12 + ((90 - latitude) / 180) * 68;
-
-    return { x, y };
-  };
 
   const renderMapCard = (place) => {
     mapCard.innerHTML = `
@@ -58,6 +52,11 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   const setActiveMarker = (marker) => {
+    if (mapView && marker?.dataset?.placeId) {
+      mapView.setActiveMarkerByPlaceId(marker.dataset.placeId);
+      return;
+    }
+
     markerLayer.querySelectorAll('.atlas-map-marker').forEach((item) => {
       item.classList.toggle('is-active', item === marker);
     });
@@ -79,35 +78,33 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
-  const renderMarkers = (places) => {
-    markerLayer.innerHTML = '';
+  const renderMarkers = async (places) => {
+    if (!window.MapboxView || !window.MapboxView.createMapView) {
+      throw new Error('Mapbox map layer unavailable.');
+    }
 
-    places.forEach((place, index) => {
-      const marker = document.createElement('a');
-      const point = projectPoint(place.longitude, place.latitude);
+    const accessToken = window.APP_CONFIG?.MAPBOX_TOKEN;
+    if (!accessToken) {
+      throw new Error('Mapbox token is missing in APP_CONFIG.');
+    }
 
-      marker.className = 'atlas-map-marker';
-      marker.href = journeyHref(place);
-      marker.style.left = `${point.x}%`;
-      marker.style.top = `${point.y}%`;
-      marker.setAttribute('aria-label', `${place.title}, ${place.year}`);
-
-      marker.addEventListener('mouseenter', () => {
-        setActiveMarker(marker);
+    mapView = await window.MapboxView.createMapView({
+      mapContainer,
+      markerLayer,
+      places,
+      accessToken,
+      journeyHref,
+      onMarkerHover: (place, markerElement) => {
+        setActiveMarker(markerElement);
         renderMapCard(place);
-      });
-
-      marker.addEventListener('focus', () => {
-        setActiveMarker(marker);
+      },
+      onMarkerFocus: (place, markerElement) => {
+        setActiveMarker(markerElement);
         renderMapCard(place);
-      });
-
-      markerLayer.appendChild(marker);
-
-      if (index === 0) {
-        setActiveMarker(marker);
-      }
+      },
     });
+
+    mapView.setActiveMarkerByIndex(0);
   };
 
   const loadPlaces = async () => {
@@ -121,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   loadPlaces()
-    .then((places) => {
+    .then(async (places) => {
       const timelinePlaces = places
         .filter((place) => place.timeline)
         .sort((first, second) => Number(first.year) - Number(second.year));
@@ -135,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
         setActiveTimelineStop(index);
       };
 
-      renderMarkers(places);
+      await renderMarkers(places);
       renderMapCard(places[0]);
 
       timelineSlider.max = String(Math.max(timelinePlaces.length - 1, 0));
