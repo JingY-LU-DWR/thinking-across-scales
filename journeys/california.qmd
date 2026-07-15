@@ -1,0 +1,60 @@
+---
+title: "Water, Land, and Grains"
+subtitle: ""
+date: "Summer 2022"
+
+# ----------------------------
+# Metadata
+# ----------------------------
+
+location: "California"
+country: "United States"
+coordinates:
+  latitude:
+  longitude:
+
+elevation: ""
+ecosystem:
+
+fieldwork:
+institution: "California Department of Water Resources"
+role: "Field Investigator"
+
+themes: [land use]
+
+related-essays: []
+
+related-journeys: []
+
+hero-image:
+
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-banner: false
+---
+
+::: {.journey-page}
+
+::: {.journey-hero}
+
+![satellite of California's landscape](../assets/images/journeys/california/hero.jpg){.journey-hero-image}
+
+:::
+
+---
+
+::: {.journey-story}
+
+（To be continued. This story is still being written. Please check back later for updates.）
+
+![satellite composite of California's landscape](../assets/images/journeys/california/gee-animation.gif){.journey-figure}
+
+:::
+
+
+
+:::
+
+

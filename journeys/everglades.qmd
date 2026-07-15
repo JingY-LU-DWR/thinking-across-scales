@@ -1,5 +1,5 @@
 ---
-title: "Journey (TBD)"
+title: "Patterned Landscapes of the Everglades"
 format:
   html:
     css: ../assets/css/custom.css
@@ -9,15 +9,18 @@ format:
 ---
 
 ::: {.journey-hero .hero-shell}
-::: {.journey-hero-image .hero-image role="img" aria-label="Placeholder landscape image"}
-:::
+
 
 ::: {.hero-copy .container}
-# Journey Title
 
-<p class="journey-meta">Location · Years</p>
+
+<p class="journey-meta">Everglades, Florida, USA · 2009–2015</p>
 
 <p class="journey-reflection">“A short reflection on how this place changed the way I think.”</p>
+:::
+::: {.journey-hero}
+![Aerial view of the Everglades ridge and slough pattern, showing alternating linear bands of darker green elevated ridges separated by lighter green water-filled sloughs stretching into the distance. The geometric striations create a rhythmic, flowing composition that emphasizes the landscape's complex hydrological structure. Image is from internet.](../assets/images/journeys/everglades/hero.jpg){.journey-hero-image}
+
 :::
 :::
 
@@ -60,38 +63,37 @@ A brief note or citation
 ::: {.section .container .journey-story}
 ## The Story
 
-### Before I Arrived
-
-Use this space for a quiet opening that situates the place and the state of mind you brought with you. Keep it reflective and grounded rather than descriptive for its own sake.
-
-### What I Observed
-
-Describe the patterns, textures, and rhythms of the place. Focus on what became legible only once you were there.
-
-### What Changed
-
-Explain the shift in perception. This is where the place becomes more than a setting and begins to reshape how you think.
-
-### What Stayed With Me
-
-Close with a brief reflection on the lasting idea, question, or method that remained with you after leaving.
+under construction. This story is still being written. Please check back later for updates.
 :::
 
 ::: {.section .container-fluid .journey-gallery}
 ::: {.row .gx-4 .gy-4}
 ::: {.col-12 .col-lg-6}
 ::: {.gallery-card}
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'%3E%3Crect width='1200' height='800' fill='%23ece7de'/%3E%3Ctext x='50%25' y='50%25' fill='%23111111' font-family='Inter, Arial, sans-serif' font-size='42' text-anchor='middle' dominant-baseline='middle'%3EImage 1%3C/text%3E%3C/svg%3E" alt="Placeholder landscape image" />
-<p class="gallery-caption">A short caption that explains the image without overexplaining it.</p>
+<img src="../assets/images/journeys/everglades/ecosystem.jpg" width="1200" height="800" alt="Placeholder landscape image" />
+<p class="gallery-caption"> Ridge and Slough ecosystem.</p>
 :::
 :::
 
 ::: {.col-12 .col-lg-6}
 ::: {.gallery-card}
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'%3E%3Crect width='1200' height='800' fill='%23f1ebe4'/%3E%3Ctext x='50%25' y='50%25' fill='%23111111' font-family='Inter, Arial, sans-serif' font-size='42' text-anchor='middle' dominant-baseline='middle'%3EImage 2%3C/text%3E%3C/svg%3E" alt="Placeholder landscape image" />
-<p class="gallery-caption">A second caption that can be replaced with a more specific observation.</p>
+<img src="../assets/images/journeys/everglades/aerial.jpg" width="1200" height="800" alt="Aerial view of the Everglades ridge and slough pattern" />
+<p class="gallery-caption">Aerial view of the Everglades ridge and slough pattern.</p>
 :::
 :::
+
+::: {.col-12 .col-lg-6}
+::: {.gallery-card}
+<img src="../assets/images/journeys/everglades/vector.jpg" width="1200" height="800" alt="Vector illustration of the Everglades ridge and slough pattern" />
+<p class="gallery-caption">Vector map of the Everglades ridge and slough mosaic.</p>
+:::
+
+::: {.gallery-card}
+<img src="../assets/images/journeys/everglades/people.jpg" width="1200" height="800" alt="People working in the Everglades" />
+<p class="gallery-caption">Ecohydrology lab members conducting field work in the Everglades.</p>
+
+:::
+
 :::
 :::
 

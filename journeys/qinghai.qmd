@@ -33,17 +33,7 @@ format:
 
 ::: {.journey-hero}
 
-![](../assets/images/journeys/placeholder.jpg){.journey-hero-image}
-
-# White Terror of the Qinghai Rhododendrons
-
-::: {.journey-subtitle}
-Qinghai Province · Summer 2017
-:::
-
-::: {.journey-meta}
-**2017-06-01 · Qinghai Province, China**
-:::
+![](../assets/images/journeys/qinghai/hero.jpg){.journey-hero-image}
 
 :::
 
@@ -56,6 +46,7 @@ Had it not been for the white rhododendrons blanketing the mountainside, the sno
 Policies descended from above.
 
 Cigarette butts accumulated below.
+![](../assets/images/journeys/qinghai/valley-overview.JPG){.journey-figure}
 
 I walked across a mound of illegally excavated gravel, measuring distances that would later become estimates in a damage assessment report.
 
@@ -96,44 +87,7 @@ Then, around the bend, another quarry appeared.
 An entire mountainside had been sliced away.
 
 Standing there, I felt as though something had been cut from me as well.
-
+![](../assets/images/journeys/qinghai/site.JPG){.journey-figure}
 :::
 
----
 
-::: {.journey-gallery}
-
-![](../assets/images/journeys/placeholder.jpg)
-
-![](../assets/images/journeys/placeholder.jpg)
-
-![](../assets/images/journeys/placeholder.jpg)
-
-:::
-
----
-
-## Reflection
-
-One or two paragraphs.
-
-Not a summary.
-
-Instead, describe how this place changed the way you think.
-
----
-
-## Related Ideas
-
-- Thinking Across Scales
-- Political Ecology
-- Ecological Accounting
-
----
-
-## Related Journeys
-
-- Everglades
-- Hainan
-- Inner Mongolia
----

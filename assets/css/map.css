@@ -387,15 +387,32 @@ body .atlas-map.page-columns {
 }
 
 .atlas-timeline-slider::-webkit-slider-thumb {
+  /* Visually hide the native thumb; keyboard users keep focus on the input track */
   appearance: none;
-  width: 20px;
-  height: 20px;
-  margin-top: 2px;
+  width: 0;
+  height: 0;
+  margin-top: 0;
   border: none;
-  border-radius: 50%;
-  background: var(--color-accent);
-  box-shadow: 0 0 0 7px rgba(138, 106, 69, 0.14);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
   cursor: pointer;
+}
+
+/* Firefox */
+.atlas-timeline-slider::-moz-range-thumb {
+  width: 0;
+  height: 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+/* Visible focus ring on the input (preserves keyboard accessibility) */
+.atlas-timeline-slider:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 6px rgba(138, 106, 69, 0.12);
+  border-radius: 6px;
 }
 
 .atlas-timeline-slider::-moz-range-track {

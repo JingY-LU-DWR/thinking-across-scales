@@ -1,7 +1,7 @@
 ---
 title: "The Cost After the Numbers"
-subtitle: "Inner Mongolia · Spring 2017"
-date: 2026-07-07
+subtitle: "Inner Mongolia · November 2017"
+date: 2017-11-04
 status: Growing
 categories:
   - Journey
@@ -13,6 +13,10 @@ format:
     page-layout: article
     toc: false
 ---
+
+::: journey-hero
+![Walking alone through a mining landscape in Inner Mongolia. A narrow trail separates native vegetation from towering piles of mining waste. Against the immense scale of the altered landscape, I appear almost insignificant, standing at the intersection of individual witness, organized extraction, and society's responsibility to restore what has been lost.](../assets/images/journeys/inner-mongolia/hero.JPG){.journey-hero-image}
+:::
 
 > *I thought I was calculating ecological damage. I didn't realize I was also calculating the weight of scientific responsibility.*
 
@@ -28,7 +32,7 @@ I was wrong.
 
 The hardest part began after I submitted the report.
 
----
+------------------------------------------------------------------------
 
 The landscape itself carried the memory of a development philosophy once proudly summarized by a local saying:
 
@@ -52,9 +56,12 @@ Every dry stream.
 
 Asked the same question.
 
+![At first glance, these barren hills appear to be nothing more than yellow earth. But just beneath the surface lies a shallow coal seam. Because the coal is so close to the ground, extraction requires relatively little equipment, making unauthorized mining possible even in remote mountains.](../assets/images/journeys/inner-mongolia/exposed-coal-seam.JPG){.journey-figure}
+
+
 **What happens when today's survival becomes tomorrow's debt?**
 
----
+------------------------------------------------------------------------
 
 Weeks later, after the field survey, calculations, and endless revisions, I finally submitted the ecological damage assessment report.
 
@@ -78,7 +85,7 @@ How to quantify uncertainty.
 
 No one had taught me what it meant when science entered the courtroom.
 
----
+------------------------------------------------------------------------
 
 The burden was not only legal.
 
@@ -100,7 +107,9 @@ As if uncertainty itself could be reduced to a single figure.
 
 For the first time in my career, I wondered whether my report deserved the authority it had been given.
 
----
+![What appears to be an empty yellow hillside is, in fact, a shallow coal deposit. Here, the boundary between geology and economics is only a few meters thick. When the resource lies so close to the surface, even remote mountains become vulnerable to unauthorized extraction.](../assets/images/journeys/inner-mongolia/extraction-damage.JPG){.journey-figure}
+
+------------------------------------------------------------------------
 
 Not long afterward, I received notice that I might be asked to testify in court.
 
@@ -126,7 +135,7 @@ Whether that fear was justified almost became secondary.
 
 The realization itself changed me.
 
----
+------------------------------------------------------------------------
 
 That investigation marked the first time I understood that scientific neutrality is not something a scientist simply possesses.
 
@@ -140,9 +149,9 @@ Science may begin with curiosity.
 
 But once it leaves our hands, it acquires consequences that no statistical model can predict.
 
----
+------------------------------------------------------------------------
 
-I still believe ecological damage should be investigated.
+I still believe natural resources damage should be investigated.
 
 I still believe science belongs in public decision-making.
 
@@ -158,4 +167,6 @@ It is also:
 
 Perhaps the hardest part of becoming a scientist is not learning how to calculate uncertainty.
 
-It is learning how to live with responsibility.
+It is learning how to live with responsibility. 
+
+![A blast hole drilled for illegal mining, shown here with my hand for scale. Some explosions begin long before the detonation.](../assets/images/journeys/inner-mongolia/shot-hole.JPG){.journey-figure}

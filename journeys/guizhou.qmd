@@ -37,33 +37,13 @@ format:
 
 ::: {.journey-page}
 
-# Hero
-
 ::: {.journey-hero}
 
-![](`r hero-image`){.journey-hero-image}
-
-# {{< meta title >}}
-
-::: {.journey-subtitle}
-{{< meta subtitle >}}
-:::
-
-::: {.journey-meta}
-
-**{{< meta date >}}**
-
-{{< meta location >}}
-
-{{< meta ecosystem >}}
-
-:::
+![](../assets/images/journeys/guizhou/hero.jpg){.journey-hero-image}
 
 :::
 
 ---
-
-# Field Story
 
 ::: {.journey-story}
 
@@ -71,7 +51,7 @@ format:
 It had survived the ice ages of the Quaternary, only to fall beneath the steel teeth of an excavator.
 
 A stand of wild Chinese tulip trees (Liriodendron chinense), an ancient magnolia lineage and a nationally protected species in China, had been cleared to make way for a road leading to a wind farm. Nearby, another protected species, Magnolia officinalis var. biloba, faced an uncertain future.
-
+![](../assets/images/journeys/guizhou/tulip-trees.JPG){.journey-figure}
 At first glance, the question seemed obvious: should we save the road or save the trees?
 
 But standing there, I realized that was the wrong question.
@@ -114,92 +94,7 @@ Survival leaves little room for poetry.
 
 :::
 
----
 
-# Field Journal
-
-::: {.journey-journal}
-
-| | |
-|---|---|
-| **Location** | |
-| **Date** | |
-| **Elevation** | |
-| **Ecosystem** | |
-| **Institution** | |
-| **Role** | |
-
-:::
-
----
-
-# Photo Essay
-
-::: {.journey-gallery}
-
-![](../assets/images/journeys/placeholder.jpg)
-
-*Landscape*
-
----
-
-![](../assets/images/journeys/placeholder.jpg)
-
-*Scientist at Work*
-
----
-
-![](../assets/images/journeys/placeholder.jpg)
-
-*Field Notes*
-
----
-
-![](../assets/images/journeys/placeholder.jpg)
-
-*Ecological Detail*
-
-:::
-
----
-
-# Reflection
-
-This is not a summary.
-
-Answer only one question:
-
-**How did this place change the way I think?**
-
----
-
-# Connections
-
-## Related Essays
-
-- Thinking Across Scales
-
-- Seeing Across Scales
-
----
-
-## Related Places
-
-- Inner Mongolia
-
-- Everglades
-
-- California
-
----
-
-## Themes
-
-- Political Ecology
-
-- Landscape Ecology
-
-- Ecological Accounting
 
 :::
 

@@ -9,6 +9,7 @@ format:
 
 ::::: hero-shell
 ::: {.hero-image role="img" aria-label="Placeholder for Everglades photograph"}
+![logo](assets/images/branding/logo.png){.hero-image-photo}
 :::
 
 ::: {.hero-copy .container}

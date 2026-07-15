@@ -90,11 +90,7 @@ This timeline is another route through the atlas: a way of tracing how one place
 Drag across the years to move through the atlas.
 :::
 
-<p id="atlas-timeline-year" class="atlas-timeline-year mb-0">
-
-2009
-
-</p>
+<p id="atlas-timeline-year" class="atlas-timeline-year mb-0"></p>
 ::::
 
 :::: atlas-timeline-rail

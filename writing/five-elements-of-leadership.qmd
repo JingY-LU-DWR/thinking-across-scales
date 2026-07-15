@@ -12,10 +12,9 @@ format:
     title-block-banner: false
     title-block: false
 ---
-
-:::::::::: writing-piece
-::::::: container
-:::::: writing-piece-hero
+::: writing-piece
+::: container
+::: writing-piece-hero
 ::: essays-kicker
 Leadership · Reflection · Public Speaking
 :::
@@ -23,16 +22,21 @@ Leadership · Reflection · Public Speaking
 # The Five Elements of Leadership
 
 ::: writing-piece-subtitle
-A graduation address for the California Department of Water Resources Emerging Leaders Cohort
+A graduation address for the California Department of Water Resources Emerging Leaders Cohort 2024
 :::
 
 ::: writing-piece-lead
 Leadership is often described in the language of strategy, influence, or decision-making. But over time I have found it more useful to think of leadership as an ecology: a set of conditions that shape how people grow, how trust travels, and how courage becomes collective.
 :::
-::::::
-:::::::
 
-:::: container
+:::
+:::
+:::
+
+![An animated visualization of the five elements - Metal, Water, Fire, Earth, and Wood - flowing and transforming into one another in a continuous cycle.](../assets/images/writing/five-elements/animation.gif){.essay-figure}
+
+
+
 ::: writing-piece-body
 ## Introduction
 
@@ -76,5 +80,4 @@ If leadership can be understood through these five elements, then its deepest wo
 
 That, to me, is what it means to trust and inspire. It means leading in a way that helps other people become more fully themselves—more capable, more generous, more grounded, and more ready to carry the work forward.
 :::
-::::
-::::::::::
+
