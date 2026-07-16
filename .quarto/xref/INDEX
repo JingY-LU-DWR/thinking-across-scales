@@ -1,0 +1,290 @@
+{
+  "about.qmd": {
+    "about.html": "95104c58"
+  },
+  "index.qmd": {
+    "index.html": "d87e3ee1"
+  },
+  "journeys/beijing.qmd": {
+    "beijing.html": "d4052d3f"
+  },
+  "journeys/california.qmd": {
+    "california.html": "7648b098"
+  },
+  "journeys/everglades.qmd": {
+    "everglades.html": "6e8684b4"
+  },
+  "journeys/guizhou.qmd": {
+    "guizhou.html": "b6859f23"
+  },
+  "journeys/hainan.qmd": {
+    "hainan.html": "29c53c43"
+  },
+  "journeys/inner-mongolia.qmd": {
+    "inner-mongolia.html": "8b7e96fb"
+  },
+  "journeys/playa.qmd": {
+    "playa.html": "e56e53d1"
+  },
+  "journeys/index.qmd": {
+    "index.html": "33855d27"
+  },
+  "ways-of-thinking/index.qmd": {
+    "index.html": "bba80f1e"
+  },
+  "writing/index.qmd": {
+    "index.html": "34411f21"
+  },
+  "learn_markdown.md": {
+    "learn_markdown.html": "21b0ec4f"
+  },
+  "prompt_library/css-theme.md": {
+    "css-theme.html": "79595af3"
+  },
+  "prompt_library/gallery.md": {
+    "gallery.html": "27581069"
+  },
+  "prompt_library/interactive-map.md": {
+    "interactive-map.html": "ca6d5fee"
+  },
+  "prompt_library/landing-page.md": {
+    "landing-page.html": "56f12239"
+  },
+  "prompt_library/leaflet.md": {
+    "leaflet.html": "e4653db1"
+  },
+  "prompt_library/story-map.md": {
+    "story-map.html": "6505c9ef"
+  },
+  "prompt_library/timeline.md": {
+    "timeline.html": "12f004db"
+  },
+  "docs/design_system/layout/article.md": {
+    "article.html": "de51c31a"
+  },
+  "docs/design_system/layout/cards.md": {
+    "cards.html": "a7050f49"
+  },
+  "docs/design_system/layout/footer.md": {
+    "footer.html": "bbff9b98"
+  },
+  "docs/design_system/layout/gallery.md": {
+    "gallery.html": "2f2e9c07"
+  },
+  "docs/design_system/layout/hero.md": {
+    "hero.html": "922fa3be"
+  },
+  "docs/design_system/layout/landing_page.md": {
+    "landing_page.html": "0f14088d"
+  },
+  "docs/design_system/layout/navbar.md": {
+    "navbar.html": "a8bea9ee"
+  },
+  "docs/design_system/prompts/01-homepage.md": {
+    "01-homepage.html": "ec137182"
+  },
+  "docs/design_system/prompts/02-navbar.md": {
+    "02-navbar.html": "87c107e8"
+  },
+  "docs/design_system/prompts/03-gallery.md": {
+    "03-gallery.html": "5a919057"
+  },
+  "docs/design_system/prompts/04-maps.md": {
+    "04-maps.html": "0d37f102"
+  },
+  "docs/design_system/style/color.md": {
+    "color.html": "c37346bb"
+  },
+  "docs/design_system/style/css-theme.md": {
+    "css-theme.html": "de86c3c9"
+  },
+  "docs/design_system/style/typography.md": {
+    "typography.html": "b103ed92"
+  },
+  "docs/design_system/workflow/git.md": {
+    "git.html": "16ad844c"
+  },
+  "docs/design_system/workflow/github.md": {
+    "github.html": "6ba9a61f"
+  },
+  "docs/design_system/workflow/quarto.md": {
+    "quarto.html": "4e018e16"
+  },
+  "docs/project_context/philosophy.md": {
+    "philosophy.html": "b50ca573"
+  },
+  "docs/project_context/vision.md": {
+    "vision.html": "bf922932"
+  },
+  "docs/project_context/writing_style.md": {
+    "writing_style.html": "05257acb"
+  },
+  "docs/project_context/debugging_principles.md": {
+    "debugging_principles.html": "435c20b7"
+  },
+  "test-grid.qmd": {
+    "test-grid.html": "4766a621"
+  },
+  "docs/project_context/known_issues.md": {
+    "known_issues.html": "e09effbf"
+  },
+  "journeys/journey-template.qmd": {
+    "journey-template.html": "fd04da79"
+  },
+  "journeys/template.qmd": {
+    "template.html": "8b9f206e"
+  },
+  "docs/design_system/prompts/05-journey-template.md": {
+    "05-journey-template.html": "ef6e0518"
+  },
+  "docs/design_system/prompts_library/components/hero.md": {
+    "hero.html": "58783bf0"
+  },
+  "docs/design_system/prompts_library/components/maps.md": {
+    "maps.html": "55bfc4fe"
+  },
+  "docs/design_system/prompts_library/components/navigation.md": {
+    "navigation.html": "462192de"
+  },
+  "docs/design_system/prompts_library/components/timeline.md": {
+    "timeline.html": "ffe1c0ad"
+  },
+  "docs/design_system/prompts_library/pages/about.md": {
+    "about.html": "ef59d319"
+  },
+  "docs/design_system/prompts_library/pages/homepage.md": {
+    "homepage.html": "569d80b8"
+  },
+  "docs/design_system/prompts_library/pages/journey-index.md": {
+    "journey-index.html": "15289fc9"
+  },
+  "docs/design_system/prompts_library/pages/journey-template.md": {
+    "journey-template.html": "e2f0908d"
+  },
+  "docs/design_system/prompts_library/pages/landing-page.md": {
+    "landing-page.html": "423a3dd1"
+  },
+  "docs/design_system/prompts_library/pages/writing-index.md": {
+    "writing-index.html": "123fb333"
+  },
+  "docs/design_system/prompts_library/refinements/accessbility.md": {
+    "accessbility.html": "88c902db"
+  },
+  "docs/design_system/prompts_library/refinements/animation.md": {
+    "animation.html": "5ac239ca"
+  },
+  "docs/design_system/prompts_library/refinements/typography.md": {
+    "typography.html": "259106ec"
+  },
+  "docs/design_system/prompts_library/refinements/world-map-v1.md": {
+    "world-map-v1.html": "28c77f5b"
+  },
+  "docs/design_system/prompts_library/workflows/journey-editor.md": {
+    "journey-editor.html": "f982931e"
+  },
+  "docs/design_system/prompts_library/workflows/journey-pipeline.md": {
+    "journey-pipeline.html": "732f43c6"
+  },
+  "garden/capture/guizhou-wechat.md": {
+    "guizhou-wechat.html": "e7997835"
+  },
+  "garden/capture/hainan-wechat.md": {
+    "hainan-wechat.html": "f45e520d"
+  },
+  "garden/capture/inner-mongolia-wechat.md": {
+    "inner-mongolia-wechat.html": "8f28e8ce"
+  },
+  "garden/capture/qinghai-wechat.md": {
+    "qinghai-wechat.html": "f662d435"
+  },
+  "garden/notes/guizhou.md": {
+    "guizhou.html": "995af524"
+  },
+  "garden/projects/ecological-accounting.md": {
+    "ecological-accounting.html": "410e9f81"
+  },
+  "garden/projects/knowledge-garden.md": {
+    "knowledge-garden.html": "2ad21097"
+  },
+  "garden/projects/software-architecture.md": {
+    "software-architecture.html": "30cfc3f9"
+  },
+  "garden/seeds/ecology-of-ideas.md": {
+    "ecology-of-ideas.html": "8ed78ad1"
+  },
+  "docs/design_system/philosophy/writing.md": {
+    "writing.html": "a4d8c81a"
+  },
+  "docs/design_system/prompts_library/workflows/publish-journey-trailer.md": {
+    "publish-journey-trailer.html": "9f549032"
+  },
+  "journeys/qinghai.qmd": {
+    "qinghai.html": "80b134b7"
+  },
+  "garden/notes/inner-mongolia.md": {
+    "inner-mongolia.html": "2c468db9"
+  },
+  "garden/notes/qinghai.md": {
+    "qinghai.html": "ab18af44"
+  },
+  "ways-of-thinking/thinking-across-scales.qmd": {
+    "thinking-across-scales.html": "6b620262"
+  },
+  "ways-of-thinking/spinning-across-scales.qmd": {
+    "spinning-across-scales.html": "5e461acd"
+  },
+  "ways-of-thinking/working-across-scales.qmd": {
+    "working-across-scales.html": "47514c0a"
+  },
+  "garden/notes/five-elements-leader.md": {
+    "five-elements-leader.html": "d6f8045f"
+  },
+  "garden/notes/seeing-across-scales.md": {
+    "seeing-across-scales.html": "0f629072"
+  },
+  "garden/notes/spining-across-scales.md": {
+    "spining-across-scales.html": "0b47c038"
+  },
+  "garden/seeds/jianghu.md": {
+    "jianghu.html": "8c3260a7"
+  },
+  "garden/seeds/tennis.md": {
+    "tennis.html": "c45c1ff6"
+  },
+  "garden/seeds/work.md": {
+    "work.html": "33f68123"
+  },
+  "garden/notes/spinning-across-scales.md": {
+    "spinning-across-scales.html": "99593bec"
+  },
+  "ways-of-thinking/seeing-across-scales.qmd": {
+    "seeing-across-scales.html": "202fd3c6"
+  },
+  "garden/emergence/entering-an-ecosystem.md": {
+    "entering-an-ecosystem.html": "22aa2359"
+  },
+  "garden/seeds/entering-an-ecosystem.md": {
+    "entering-an-ecosystem.html": "7b5dd0f9"
+  },
+  "writing/five-elements-of-leadership.qmd": {
+    "five-elements-of-leadership.html": "7b7bad7e"
+  },
+  "writing/california-agriculture-mapping.qmd": {
+    "california-agriculture-mapping.html": "d418efab"
+  },
+  "writing/template.qmd": {
+    "template.html": "9c943a0f"
+  },
+  "about/index.qmd": {
+    "index.html": "3fbfec8a"
+  },
+  "about/about.md": {
+    "about.html": "070f8abd"
+  },
+  "about/cv.qmd": {
+    "cv.html": "a672bda4"
+  },
+  "about/philosophy.qmd": {
+    "philosophy.html": "f6935475"
+  }
+}
