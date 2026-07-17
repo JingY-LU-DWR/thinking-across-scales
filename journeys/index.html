@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="landing-page atlas-landing-page page-columns page-full">
+<div class="atlas-landing-page">
 <div class="essays-hero atlas-hero">
 <div class="container py-5">
 <div class="row align-items-end">
@@ -155,12 +155,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="essays-kicker">
 <p>Thinking Across Scales</p>
 </div>
-<section id="atlas" class="level1">
-<h1>Atlas</h1>
 <div class="essays-tagline">
 <p>Places that shaped the way I think.</p>
 </div>
-</section>
 </div>
 <div class="col-lg-4">
 <div class="atlas-hero-intro">
@@ -170,8 +167,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="atlas-section atlas-section-space py-5 py-lg-6 page-columns page-full">
-<div class="container page-columns page-full">
+<div class="atlas-section atlas-section-space py-5 py-lg-6">
+<div class="container">
 <div class="row align-items-end mb-4">
 <div class="col-lg-7">
 <div class="essays-section-label">
@@ -187,14 +184,17 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="atlas-map-shell page-columns page-full">
-<div id="atlas-map" class="atlas-map page-columns page-full" role="application" aria-label="Interactive world map of atlas journeys">
-<p><svg class="atlas-map-basemap" viewbox="0 0 1200 620" aria-hidden="true" preserveaspectratio="xMidYMid meet"> <rect x="0" y="0" width="1200" height="620" rx="28" ry="28"></rect> <g class="atlas-map-continents"> <path d="M85 177C118 143 179 135 228 149C267 160 294 181 319 215C332 232 353 247 381 266C406 282 413 305 399 322C380 344 337 347 308 360C279 373 272 395 248 408C223 420 177 419 149 400C123 383 112 349 88 334C56 314 41 290 46 257C50 224 63 197 85 177Z"></path> <path d="M327 385C346 382 370 386 385 397C398 406 400 423 389 436C377 451 350 456 334 446C317 434 312 402 327 385Z"></path> <path d="M541 155C589 128 666 126 718 138C769 150 818 170 863 188C913 209 955 234 985 272C1001 292 998 318 972 329C938 344 902 338 874 354C848 369 823 401 788 412C749 425 697 418 662 398C625 376 613 347 579 332C549 320 516 305 503 275C489 245 501 184 541 155Z"></path> <path d="M651 339C686 323 735 326 768 343C794 356 803 386 792 424C782 461 757 510 720 531C692 546 659 547 632 530C600 510 588 476 591 432C594 394 612 360 651 339Z"></path> <path d="M929 444C956 432 995 434 1024 446C1051 457 1071 482 1072 505C1073 523 1053 538 1029 539C995 540 950 527 929 505C911 486 909 454 929 444Z"></path> </g> <g class="atlas-map-routes"> <path d="M189 290C306 250 432 231 533 250C623 267 710 317 789 314C870 311 933 251 1026 240"></path> <path d="M213 321C358 388 514 424 656 420C749 417 836 402 964 469"></path> </g> </svg></p>
+<div class="atlas-map-shell">
+<div id="atlas-map" class="atlas-map" role="application" aria-label="Interactive world map of atlas journeys">
+<svg class="atlas-map-basemap" viewbox="0 0 1200 620" aria-hidden="true" preserveaspectratio="xMidYMid meet">
+<rect x="0" y="0" width="1200" height="620" rx="28" ry="28"></rect><g class="atlas-map-continents"><path d="M85 177C118 143 179 135 228 149C267 160 294 181 319 215C332 232 353 247 381 266C406 282 413 305 399 322C380 344 337 347 308 360C279 373 272 395 248 408C223 420 177 419 149 400C123 383 112 349 88 334C56 314 41 290 46 257C50 224 63 197 85 177Z"></path><path d="M327 385C346 382 370 386 385 397C398 406 400 423 389 436C377 451 350 456 334 446C317 434 312 402 327 385Z"></path><path d="M541 155C589 128 666 126 718 138C769 150 818 170 863 188C913 209 955 234 985 272C1001 292 998 318 972 329C938 344 902 338 874 354C848 369 823 401 788 412C749 425 697 418 662 398C625 376 613 347 579 332C549 320 516 305 503 275C489 245 501 184 541 155Z"></path><path d="M651 339C686 323 735 326 768 343C794 356 803 386 792 424C782 461 757 510 720 531C692 546 659 547 632 530C600 510 588 476 591 432C594 394 612 360 651 339Z"></path><path d="M929 444C956 432 995 434 1024 446C1051 457 1071 482 1072 505C1073 523 1053 538 1029 539C995 540 950 527 929 505C911 486 909 454 929 444Z"></path></g><g class="atlas-map-routes"><path d="M189 290C306 250 432 231 533 250C623 267 710 317 789 314C870 311 933 251 1026 240"></path><path d="M213 321C358 388 514 424 656 420C749 417 836 402 964 469"></path></g>
+</svg>
 <div id="atlas-map-markers" class="atlas-map-markers">
 
 </div>
-<aside id="atlas-map-card" class="atlas-map-card" aria-live="polite">
-</aside>
+<div id="atlas-map-card" class="atlas-map-card" role="complementary" aria-live="polite">
+
+</div>
 </div>
 <div class="atlas-map-caption">
 <p>Hover across the markers to preview a place. Click to read the full journey.</p>
@@ -204,7 +204,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="atlas-section atlas-section-time py-5 py-lg-6">
 <div class="container">
-<div class="atlas-timeline-shell">
 <div class="row align-items-end mb-4">
 <div class="col-lg-7">
 <div class="essays-section-label">
@@ -220,12 +219,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<div class="atlas-timeline-shell">
 <div class="atlas-timeline-header">
 <div class="atlas-timeline-instruction mb-0">
 <p>Drag across the years to move through the atlas.</p>
 </div>
 <p id="atlas-timeline-year" class="atlas-timeline-year mb-0">
-2009
 </p>
 </div>
 <div class="atlas-timeline-rail">
@@ -669,6 +668,8 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script src="../assets/js/config.js"></script>
+<script src="../assets/js/mapbox-view.js"></script>
 <script src="../assets/js/map.js"></script>
 
 
